@@ -1,0 +1,1001 @@
+,account_name,inv_horizon,inv_obj_least_imp,inv_obj_most_imp,inv_obj_some_imp,inv_obj_very_imp,investment_amt,liquidity_need,model_id,model_name,primary_fin_need,risk_profile,risk_tolerance,volatility
+0,Jane Wells,3,0,3,0,2,632860,6,1,Capital Appreciation Strategy 1,5,4,1,19.99
+1,Madison Ryan,2,0,1,2,4,251418,1,2,Income Strategy 2,6,2,0,23.25
+2,Eric Smith,3,0,3,1,2,223181,6,3,Capital Appreciation Strategy 3,6,4,1,23.150000000000002
+3,Travis Smith,1,1,3,2,4,459374,4,4,Capital Appreciation Strategy 4,2,6,2,17.78
+4,Michelle Williams,1,0,3,1,0,430662,3,5,Capital Appreciation Strategy 5,8,4,1,21.83
+5,Barbara Garcia,5,4,1,2,3,217296,6,6,Income Strategy 6,3,2,1,31.240000000000002
+6,Matthew Smith,2,0,3,4,2,445465,6,7,Capital Appreciation Strategy 7,2,4,1,19.97
+7,James Reyes,2,0,3,4,2,788459,1,8,Capital Appreciation Strategy 8,8,4,1,46.12
+8,Alexander Sanders,1,0,1,3,0,531742,5,9,Income Strategy 9,5,1,0,22.81
+9,Rose Thomas,2,0,1,0,2,145837,3,10,Income Strategy 10,4,1,0,26.55
+10,Nicholas Smith,1,4,2,1,0,455624,6,11,Aggressive Income Strategy 11,6,3,1,20.11
+11,Terry Johnson,1,0,4,3,1,876714,5,12,Speculation Strategy 12,1,5,1,26.88
+12,Melissa Davis,4,0,2,3,1,816267,3,13,Aggressive Income Strategy 13,8,3,1,20.150000000000002
+13,John Stewart,4,0,4,0,3,137272,1,14,Speculation Strategy 14,3,6,1,28.01
+14,Jasmine Baker,2,0,2,0,4,322235,6,15,Aggressive Income Strategy 15,4,4,1,22.68
+15,John Stevens,6,0,3,4,2,221947,4,16,Capital Appreciation Strategy 16,2,4,1,25.130000000000003
+16,James Davis,3,0,3,0,2,376137,4,17,Capital Appreciation Strategy 17,8,5,2,24.88
+17,Steven Massey,2,2,3,1,0,414019,2,18,Capital Appreciation Strategy 18,1,4,1,14.099999999999998
+18,George Nguyen,3,2,4,1,0,597807,4,19,Speculation Strategy 19,2,6,2,27.04
+19,April Wright,4,3,4,0,2,858828,3,20,Speculation Strategy 20,1,6,1,28.92
+20,Brandy Hernandez,3,1,4,0,3,512134,5,21,Speculation Strategy 21,8,6,1,15.07
+21,Daniel Spencer,2,0,1,0,4,745791,2,22,Income Strategy 22,7,2,0,13.94
+22,Ashlee Brooks,5,3,1,4,2,976593,2,23,Income Strategy 23,4,1,0,17.549999999999997
+23,Robin Lopez,4,0,2,4,1,883306,2,24,Aggressive Income Strategy 24,8,4,2,26.43
+24,Cheryl Cohen,4,0,4,2,3,782553,4,25,Speculation Strategy 25,3,6,1,30.85
+25,Anne Lynn,3,0,2,1,0,229074,5,26,Aggressive Income Strategy 26,1,3,1,15.52
+26,Matthew Bentley,6,0,1,2,3,723595,3,27,Income Strategy 27,4,2,0,24.46
+27,Steven Lopez,5,2,1,3,0,220033,2,28,Income Strategy 28,8,1,1,31.7
+28,Molly Evans,1,0,3,0,4,141212,1,29,Capital Appreciation Strategy 29,6,5,1,22.61
+29,Shannon Brown,6,0,3,0,4,165117,5,30,Capital Appreciation Strategy 30,8,5,1,19.439999999999998
+30,Susan Allen,1,0,2,4,1,606295,4,31,Aggressive Income Strategy 31,2,4,2,19.38
+31,Ryan Johnston,6,0,2,3,1,163816,4,32,Aggressive Income Strategy 32,7,3,1,16.41
+32,Joshua Shields,1,0,3,0,1,693829,4,33,Capital Appreciation Strategy 33,3,4,1,23.830000000000002
+33,Kayla Carter,6,0,3,4,2,41950,1,34,Capital Appreciation Strategy 34,2,4,1,18.099999999999998
+34,Diana Harris,6,0,4,2,0,383460,3,35,Speculation Strategy 35,2,5,1,24.099999999999998
+35,Melissa Yoder,6,1,2,3,0,221303,2,36,Aggressive Income Strategy 36,3,3,1,16.18
+36,Suzanne Carter,5,0,1,3,2,291581,4,37,Income Strategy 37,5,1,0,269.52
+37,Scott Johnson,6,1,4,0,2,214566,2,38,Speculation Strategy 38,8,6,2,17.919999999999998
+38,Jonathan Wilson,3,0,1,3,4,888968,3,39,Income Strategy 39,7,2,0,22.08
+39,Danny Kent,6,0,4,1,0,31856,1,40,Speculation Strategy 40,7,5,1,16.13
+40,Christine Nichols,3,0,3,0,1,254685,5,41,Capital Appreciation Strategy 41,8,4,1,21.740000000000002
+41,William Cook,1,0,2,0,4,887047,6,42,Aggressive Income Strategy 42,1,4,2,19.49
+42,Phillip Martinez,1,3,4,0,2,696841,1,43,Speculation Strategy 43,3,6,1,16.8
+43,Anthony Bowen,1,1,3,4,0,884334,5,44,Capital Appreciation Strategy 44,1,5,2,24.93
+44,Alejandra Peterson,5,0,1,0,3,302746,4,45,Income Strategy 45,7,2,1,22.98
+45,Monica Whitaker,3,2,3,1,0,226834,1,46,Capital Appreciation Strategy 46,5,5,2,25.47
+46,Jennifer Rubio,2,0,4,2,0,135414,3,47,Speculation Strategy 47,4,6,2,21.85
+47,Emily Young,2,0,3,1,0,742926,4,48,Capital Appreciation Strategy 48,3,4,1,19.13
+48,Marie Boyd,2,3,4,1,2,692890,5,49,Speculation Strategy 49,7,6,1,51.580000000000005
+49,James Williamson,1,1,2,0,4,635997,5,50,Aggressive Income Strategy 50,7,4,2,49.75
+50,David Foster,1,3,4,0,1,165700,4,51,Speculation Strategy 51,1,5,1,23.3
+51,Desiree Nolan,6,0,3,4,2,365936,6,52,Capital Appreciation Strategy 52,1,4,1,25.919999999999998
+52,Juan Odom,5,2,3,0,0,961409,3,53,Capital Appreciation Strategy 53,3,4,1,23.03
+53,Dr. Jessica Kirk DDS,3,0,1,2,4,321011,5,54,Income Strategy 54,7,2,1,25.759999999999998
+54,Jill Reyes,4,0,4,1,3,918423,2,55,Speculation Strategy 55,7,6,1,24.709999999999997
+55,Victoria Weeks,6,0,3,4,2,267805,1,56,Capital Appreciation Strategy 56,7,5,2,24.29
+56,Brian Benjamin,4,0,3,0,1,769861,2,57,Capital Appreciation Strategy 57,2,5,2,16.29
+57,Sue Schultz,6,1,4,2,3,372452,5,58,Speculation Strategy 58,4,6,1,20.119999999999997
+58,Christopher Hensley,6,0,4,2,1,643551,3,59,Speculation Strategy 59,4,5,1,81.07
+59,Sharon Hernandez,1,0,3,0,4,541411,2,60,Capital Appreciation Strategy 60,6,5,1,19.009999999999998
+60,Mrs. Kimberly Davidson MD,4,0,4,1,3,181969,3,61,Speculation Strategy 61,7,6,1,16.78
+61,Brenda Carlson,4,1,2,4,3,892208,6,62,Aggressive Income Strategy 62,6,4,2,21.68
+62,Jason Phillips,1,4,2,3,1,939964,6,63,Aggressive Income Strategy 63,2,4,2,15.409999999999998
+63,Mrs. Melanie Wright,2,0,4,3,1,480135,5,64,Speculation Strategy 64,2,5,1,15.299999999999999
+64,Patricia Moran,1,0,2,1,0,380608,3,65,Aggressive Income Strategy 65,1,3,1,9.24
+65,Ronald Spears,2,3,4,1,2,767603,2,66,Speculation Strategy 66,6,6,2,16.18
+66,Jennifer Mckenzie,1,3,2,0,4,266649,2,67,Aggressive Income Strategy 67,7,4,2,19.73
+67,Susan Goodwin,2,1,2,3,4,389953,2,68,Aggressive Income Strategy 68,1,4,2,22.18
+68,Amanda Clark,3,4,1,2,0,995853,1,69,Income Strategy 69,1,1,0,19.29
+69,Brittney Harrell,1,0,3,2,1,499322,2,70,Capital Appreciation Strategy 70,6,4,1,19.139999999999997
+70,Christie Hamilton,3,3,4,1,0,295104,1,71,Speculation Strategy 71,5,6,2,92.64
+71,Tammy Bennett,2,0,4,0,2,128823,2,72,Speculation Strategy 72,6,6,1,16.74
+72,Victoria Mueller,3,0,1,3,2,247199,4,73,Income Strategy 73,4,1,0,19.18
+73,Kelli Boone,2,1,3,4,2,922052,6,74,Capital Appreciation Strategy 74,4,4,1,25.44
+74,Kelli Davis,3,0,1,4,3,766087,6,75,Income Strategy 75,3,2,1,20.93
+75,Monica Lopez,3,0,4,0,1,370610,1,76,Speculation Strategy 76,3,5,1,23.21
+76,Brad Trevino,5,0,2,0,1,998291,6,77,Aggressive Income Strategy 77,4,3,1,26.56
+77,Daniel Smith,5,0,2,4,0,442825,5,78,Aggressive Income Strategy 78,2,3,1,23.14
+78,Mr. Javier Compton II,1,0,2,1,0,959149,3,79,Aggressive Income Strategy 79,4,3,1,24.04
+79,Kyle Garcia,2,0,1,0,2,723955,6,80,Income Strategy 80,1,1,0,26.21
+80,Michelle Smith,3,3,2,4,1,642618,1,81,Aggressive Income Strategy 81,4,3,1,34.17
+81,Laurie Taylor,6,0,4,0,0,840258,1,82,Speculation Strategy 82,1,6,2,25.44
+82,Christina Poole,4,0,3,2,4,57531,3,83,Capital Appreciation Strategy 83,7,5,1,21.959999999999997
+83,Amanda Smith,4,0,2,3,4,332168,6,84,Aggressive Income Strategy 84,5,4,2,20.68
+84,Christina Gordon,3,2,4,0,3,360522,6,85,Speculation Strategy 85,6,6,1,28.38
+85,Billy Mcguire,2,0,2,3,1,235985,6,86,Aggressive Income Strategy 86,6,3,1,22.96
+86,Madeline Hodge,5,0,2,0,4,471378,4,87,Aggressive Income Strategy 87,1,4,1,158.93
+87,Cassandra Myers,4,0,2,0,4,613629,1,88,Aggressive Income Strategy 88,5,4,2,30.740000000000002
+88,Tiffany Cox,1,0,2,4,1,62603,3,89,Aggressive Income Strategy 89,1,3,1,22.29
+89,Sherry Lopez,3,4,3,2,1,887033,1,90,Capital Appreciation Strategy 90,5,5,2,15.97
+90,Matthew Davis,5,0,1,4,0,98012,2,91,Income Strategy 91,3,1,0,25.16
+91,Sharon Alexander,1,0,4,0,1,606568,6,92,Speculation Strategy 92,8,6,2,23.11
+92,James Bowen,1,0,2,1,4,317733,5,93,Aggressive Income Strategy 93,3,4,2,21.81
+93,Natasha Armstrong,4,0,4,3,2,364891,6,94,Speculation Strategy 94,7,6,1,23.47
+94,Rachel Cooke,2,0,3,1,2,530230,5,95,Capital Appreciation Strategy 95,1,4,1,25.41
+95,Andrew Torres MD,6,0,3,0,2,427854,2,96,Capital Appreciation Strategy 96,3,4,1,21.3
+96,Courtney Warren,3,2,4,1,0,239631,3,97,Speculation Strategy 97,7,6,2,26.83
+97,Kim Brown,4,2,1,0,3,524460,2,98,Income Strategy 98,8,2,0,18.56
+98,Terry Daniels,5,0,4,0,1,50996,5,99,Speculation Strategy 99,5,6,2,52.81
+99,James Cooper,6,1,4,3,0,947467,5,100,Speculation Strategy 100,8,5,1,15.45
+100,Christopher Nelson,1,4,1,3,0,255433,3,101,Income Strategy 101,1,1,1,16.580000000000002
+101,Hector Wheeler,6,2,4,0,0,477504,4,102,Speculation Strategy 102,5,6,2,22.39
+102,Donna Arias,4,0,4,2,1,822877,5,103,Speculation Strategy 103,5,5,1,33.629999999999995
+103,Maria Dickerson,2,0,1,2,0,58461,3,104,Income Strategy 104,1,1,0,34.050000000000004
+104,Ricardo Hernandez,5,2,1,4,0,677380,2,105,Income Strategy 105,7,1,0,93.92
+105,Sydney Shah,1,1,4,0,0,405702,5,106,Speculation Strategy 106,1,6,2,17.2
+106,Bryan Sutton,4,4,3,2,0,373211,1,107,Capital Appreciation Strategy 107,3,4,1,19.25
+107,Philip Blankenship,3,3,4,0,2,567920,2,108,Speculation Strategy 108,3,6,2,17.59
+108,Michael Cruz,2,0,1,0,3,222581,1,109,Income Strategy 109,4,2,0,16.5
+109,Daniel Smith,5,0,1,4,2,389612,1,110,Income Strategy 110,6,2,1,20.28
+110,James Nguyen,1,0,2,3,1,148386,1,111,Aggressive Income Strategy 111,7,4,2,52.949999999999996
+111,George Barnes,4,2,1,4,3,551496,6,112,Income Strategy 112,5,2,1,24.42
+112,Charles Smith,3,3,1,0,4,224934,1,113,Income Strategy 113,5,2,0,20.06
+113,Danielle Wilson,5,3,4,2,0,479020,6,114,Speculation Strategy 114,1,6,2,20.45
+114,Traci Hunt,1,0,4,1,3,866822,1,115,Speculation Strategy 115,6,6,1,40.300000000000004
+115,Chelsea Brown,2,4,1,0,2,91225,1,116,Income Strategy 116,7,1,0,29.45
+116,Crystal Tucker,1,0,3,4,1,474874,5,117,Capital Appreciation Strategy 117,2,4,1,21.72
+117,Angela Hoover,2,0,2,0,3,164403,1,118,Aggressive Income Strategy 118,7,3,1,23.549999999999997
+118,Joan Adkins,3,2,4,0,3,821876,3,119,Speculation Strategy 119,6,7,2,21.7
+119,Heather Ramirez,6,3,2,4,0,308180,3,120,Aggressive Income Strategy 120,5,3,1,30.53
+120,Nicholas Mitchell,5,0,4,0,3,625587,2,121,Speculation Strategy 121,3,6,1,16.950000000000003
+121,Adriana Vargas,4,0,1,2,0,150574,2,122,Income Strategy 122,1,1,0,23.01
+122,Caitlin Gregory,6,0,3,1,4,481507,4,123,Capital Appreciation Strategy 123,5,5,1,20.7
+123,Megan Werner,5,0,1,4,3,895747,3,124,Income Strategy 124,1,2,0,27.439999999999998
+124,Richard Davis,3,0,2,3,4,813577,1,125,Aggressive Income Strategy 125,1,4,2,18.7
+125,Joshua Taylor,6,0,1,4,2,745348,5,126,Income Strategy 126,5,2,1,31.14
+126,Jamie Spencer,4,4,2,0,3,889210,5,127,Aggressive Income Strategy 127,7,3,1,11.790000000000001
+127,Stephanie Short,2,4,3,0,2,645684,1,128,Capital Appreciation Strategy 128,6,4,1,23.1
+128,Angela Mathews,2,0,2,4,1,111143,1,129,Aggressive Income Strategy 129,1,3,1,21.97
+129,Warren Martin,6,0,2,0,0,219515,4,130,Aggressive Income Strategy 130,6,3,1,23.96
+130,Melissa Orr,5,3,4,2,1,88242,6,131,Speculation Strategy 131,3,5,1,19.21
+131,Ryan Martin,2,3,4,0,2,528415,5,132,Speculation Strategy 132,3,6,1,17.65
+132,Kelli Brady,4,0,4,1,0,147271,4,133,Speculation Strategy 133,4,5,1,21.4
+133,Christopher Barrett,5,0,4,2,3,46488,5,134,Speculation Strategy 134,5,6,1,22.31
+134,Cheryl King,5,1,4,0,3,787563,1,135,Speculation Strategy 135,8,7,2,14.2
+135,Grace Warren,2,0,3,2,0,903610,3,136,Capital Appreciation Strategy 136,6,4,1,44.11
+136,Robin Crawford,2,4,2,3,0,901271,3,137,Aggressive Income Strategy 137,6,3,1,27.73
+137,Mary Wright,6,0,2,0,1,26650,1,138,Aggressive Income Strategy 138,4,4,2,17.52
+138,William Young,6,4,2,0,1,544045,2,139,Aggressive Income Strategy 139,4,4,2,59.62
+139,Marissa Thomas,3,1,2,0,3,779925,4,140,Aggressive Income Strategy 140,4,3,1,28.970000000000002
+140,Brent Moore,6,4,2,1,3,970939,1,141,Aggressive Income Strategy 141,8,3,1,23.41
+141,April Ellis,1,0,4,1,3,849722,3,142,Speculation Strategy 142,5,6,1,18.59
+142,Paula Lee,6,0,4,0,2,255523,6,143,Speculation Strategy 143,4,6,1,18.13
+143,Dr. Kathleen Collins,6,3,2,0,0,149461,6,144,Aggressive Income Strategy 144,8,3,2,25.22
+144,Julia Warren,6,0,3,2,4,248580,2,145,Capital Appreciation Strategy 145,1,6,2,21.11
+145,Makayla Rivera,2,4,3,0,2,963198,2,146,Capital Appreciation Strategy 146,4,5,2,23.02
+146,Sherry Sanchez,4,0,2,4,1,985358,2,147,Aggressive Income Strategy 147,6,4,2,28.27
+147,Debbie Washington,1,1,3,0,4,456916,3,148,Capital Appreciation Strategy 148,1,6,2,21.5
+148,Charles Collins,4,0,1,0,3,581192,2,149,Income Strategy 149,7,2,0,18.83
+149,Douglas Hodge,2,3,4,0,1,523462,5,150,Speculation Strategy 150,6,6,2,41.64
+150,Krista Freeman,4,0,1,4,3,597054,2,151,Income Strategy 151,3,2,1,26.8
+151,Ruth Allen,5,3,1,4,2,931541,4,152,Income Strategy 152,2,1,0,16.5
+152,Mark Roberts,4,2,1,0,4,907773,2,153,Income Strategy 153,8,2,0,33.29
+153,Amber Harris,6,0,3,4,2,970355,2,154,Capital Appreciation Strategy 154,6,4,1,29.349999999999998
+154,Ricardo Gray MD,3,0,4,1,2,303989,1,155,Speculation Strategy 155,1,6,2,16.53
+155,Taylor Jones,2,3,4,1,0,713052,2,156,Speculation Strategy 156,4,5,1,19.2
+156,Taylor Wood,6,0,3,4,1,385066,5,157,Capital Appreciation Strategy 157,8,5,2,23.18
+157,Daniel Briggs,4,0,3,1,2,878766,5,158,Capital Appreciation Strategy 158,3,4,1,54.52
+158,Ryan Dixon,2,0,4,1,0,221123,1,159,Speculation Strategy 159,3,5,1,22.59
+159,Jessica Walker,4,3,1,0,0,865669,4,160,Income Strategy 160,8,1,0,17.75
+160,John Ward,3,4,1,3,2,843296,5,161,Income Strategy 161,4,2,1,18.27
+161,Stacy Fry,3,2,3,0,0,886530,2,162,Capital Appreciation Strategy 162,7,4,1,22.58
+162,Gregory Whitney,6,1,2,4,0,715766,5,163,Aggressive Income Strategy 163,2,3,1,16.1
+163,Jessica Collins,6,1,4,3,2,782756,6,164,Speculation Strategy 164,5,6,1,18.64
+164,Travis Hays,4,0,3,0,1,728136,6,165,Capital Appreciation Strategy 165,2,4,1,16.77
+165,Michelle Jones,5,0,3,4,1,883912,6,166,Capital Appreciation Strategy 166,7,4,1,33.03
+166,David Long,6,0,4,2,1,118589,2,167,Speculation Strategy 167,8,5,1,22.45
+167,Jasmine Harrell MD,3,4,1,0,2,715765,6,168,Income Strategy 168,7,1,0,21.19
+168,Angela Fisher,2,0,2,3,4,668740,1,169,Aggressive Income Strategy 169,5,4,2,33.2
+169,Brian Fowler Jr.,4,0,4,3,2,881742,3,170,Speculation Strategy 170,6,6,2,26.52
+170,Maureen Anderson,6,2,3,0,4,616549,1,171,Capital Appreciation Strategy 171,3,5,1,15.959999999999999
+171,Sara Lee,3,2,4,0,3,444029,1,172,Speculation Strategy 172,2,7,2,15.21
+172,Daniel Hernandez,1,4,2,0,3,688360,3,173,Aggressive Income Strategy 173,3,3,1,17.01
+173,Thomas Cooper,5,0,3,0,4,787249,3,174,Capital Appreciation Strategy 174,6,6,2,18.360000000000003
+174,Roberto Davis,6,0,4,0,3,144629,6,175,Speculation Strategy 175,6,6,1,19.21
+175,Luis Torres,2,1,2,0,4,674916,5,176,Aggressive Income Strategy 176,5,4,2,16.950000000000003
+176,Lauren Tran,5,0,3,0,2,842357,4,177,Capital Appreciation Strategy 177,8,5,2,26.06
+177,Alex Fletcher,2,3,1,2,4,675933,6,178,Income Strategy 178,5,2,1,61.28
+178,Bradley Walter,4,0,4,2,0,294744,5,179,Speculation Strategy 179,1,6,2,15.920000000000002
+179,Heather Herman,3,0,3,0,4,335714,6,180,Capital Appreciation Strategy 180,2,5,1,20.48
+180,Kathleen Morrison,3,0,1,4,3,388450,2,181,Income Strategy 181,7,2,1,16.0
+181,Tina Bell,5,0,2,0,4,385219,6,182,Aggressive Income Strategy 182,3,4,1,18.85
+182,Ian Wade,1,0,4,0,2,85203,5,183,Speculation Strategy 183,3,6,1,28.050000000000004
+183,Sharon Garcia,1,3,4,1,2,104752,2,184,Speculation Strategy 184,3,6,1,16.8
+184,James Long,3,2,3,1,4,207630,5,185,Capital Appreciation Strategy 185,2,5,1,26.029999999999998
+185,Mario Owens,3,0,1,0,2,492316,3,186,Income Strategy 186,3,2,1,19.8
+186,Anthony Moore,2,3,4,0,1,74564,6,187,Speculation Strategy 187,4,6,2,24.060000000000002
+187,Natasha Young,5,0,4,3,1,995861,5,188,Speculation Strategy 188,5,5,1,25.669999999999998
+188,Janet Mathews,4,1,2,0,3,339924,5,189,Aggressive Income Strategy 189,6,4,2,20.93
+189,John Bullock,5,0,1,0,2,637527,5,190,Income Strategy 190,1,2,1,21.86
+190,Carolyn Martinez,4,2,3,4,1,766094,3,191,Capital Appreciation Strategy 191,7,5,2,19.91
+191,Chelsea Wilson,3,3,1,0,2,956329,3,192,Income Strategy 192,2,1,0,23.23
+192,Robert Castillo,1,0,1,4,3,533108,1,193,Income Strategy 193,1,2,0,17.96
+193,Chelsea Collins,3,0,3,0,2,558700,4,194,Capital Appreciation Strategy 194,2,5,2,18.89
+194,James Houston,6,0,4,3,0,649577,1,195,Speculation Strategy 195,5,5,1,25.009999999999998
+195,Amy Castillo,2,1,2,3,0,206894,1,196,Aggressive Income Strategy 196,2,3,2,22.54
+196,Amanda Mccormick,2,0,4,1,3,889826,6,197,Speculation Strategy 197,2,6,1,18.58
+197,Joanna Rivera,4,4,1,2,3,943880,3,198,Income Strategy 198,4,2,1,24.81
+198,Holly Mcdonald,5,3,2,1,4,268489,6,199,Aggressive Income Strategy 199,4,4,1,21.55
+199,Ryan Owens,1,2,3,0,0,582608,6,200,Capital Appreciation Strategy 200,5,4,1,20.91
+200,Pamela Gray,1,0,3,1,0,273139,1,201,Capital Appreciation Strategy 201,7,4,1,24.86
+201,Patrick Williamson,5,0,2,0,3,769538,3,202,Aggressive Income Strategy 202,6,4,2,15.129999999999999
+202,Timothy Hernandez,1,0,4,3,2,615363,4,203,Speculation Strategy 203,3,6,2,23.56
+203,Laurie Harris,3,2,4,0,3,765259,4,204,Speculation Strategy 204,7,6,1,16.39
+204,Joseph Hill,3,0,3,2,1,545912,2,205,Capital Appreciation Strategy 205,8,4,1,15.110000000000001
+205,Shawn Mckay,1,4,2,0,1,881329,3,206,Aggressive Income Strategy 206,7,3,1,22.7
+206,Rebecca Hale,3,0,3,4,0,316341,3,207,Capital Appreciation Strategy 207,7,4,1,31.430000000000003
+207,Katie Berg,3,0,2,3,4,968705,6,208,Aggressive Income Strategy 208,3,4,1,27.55
+208,Wendy Hall,5,0,1,2,4,975141,2,209,Income Strategy 209,8,2,0,18.64
+209,Heather Mcclure,2,0,2,0,3,196163,4,210,Aggressive Income Strategy 210,4,3,1,18.56
+210,Christopher Watkins,5,4,1,3,0,971838,4,211,Income Strategy 211,7,1,0,26.369999999999997
+211,Gregory Murphy,6,0,3,0,1,885370,3,212,Capital Appreciation Strategy 212,7,5,2,9.76
+212,Joseph Spencer,4,0,1,0,4,301145,6,213,Income Strategy 213,6,2,1,27.639999999999997
+213,Carmen Schultz,3,0,2,4,0,691214,2,214,Aggressive Income Strategy 214,7,3,2,20.64
+214,Ashlee Owens,3,0,1,0,4,32540,6,215,Income Strategy 215,1,2,0,35.49
+215,Aaron Rivera,6,0,2,0,3,991290,5,216,Aggressive Income Strategy 216,6,3,1,119.61999999999999
+216,Katherine Mann,5,0,4,2,3,972329,6,217,Speculation Strategy 217,2,7,2,17.299999999999997
+217,Elizabeth Stevens,4,3,2,0,1,779643,2,218,Aggressive Income Strategy 218,5,3,1,20.09
+218,Mark Rodriguez,5,1,4,0,3,655093,5,219,Speculation Strategy 219,8,7,2,24.759999999999998
+219,Thomas Garcia,6,0,2,4,0,871953,5,220,Aggressive Income Strategy 220,7,3,1,14.45
+220,Christopher Gonzalez,4,1,3,4,0,739787,5,221,Capital Appreciation Strategy 221,8,5,2,13.84
+221,Lori Ortiz,4,0,1,3,4,402539,1,222,Income Strategy 222,3,2,1,19.46
+222,Nicholas Silva,6,4,3,1,2,177904,1,223,Capital Appreciation Strategy 223,7,5,2,31.490000000000002
+223,Karen Day,6,0,4,1,2,604222,6,224,Speculation Strategy 224,2,6,1,46.56
+224,Patrick Burnett,2,0,4,0,1,607724,6,225,Speculation Strategy 225,4,5,1,18.77
+225,James Green,2,0,4,3,1,779260,3,226,Speculation Strategy 226,4,6,2,19.35
+226,Cameron Lopez,4,1,3,4,0,634932,6,227,Capital Appreciation Strategy 227,8,5,2,21.89
+227,Kathleen Joseph,1,0,1,2,4,310140,3,228,Income Strategy 228,4,2,0,16.61
+228,Jennifer Perez,6,2,4,3,1,670415,1,229,Speculation Strategy 229,7,5,1,28.15
+229,Jennifer Calderon,6,4,3,0,1,781709,1,230,Capital Appreciation Strategy 230,2,5,2,161.09
+230,Harold Thomas,5,0,2,3,1,272798,5,231,Aggressive Income Strategy 231,3,4,2,23.84
+231,Michael Powell,2,0,3,1,2,929555,5,232,Capital Appreciation Strategy 232,6,4,1,27.900000000000002
+232,Andrew Tucker,6,2,3,4,0,550084,6,233,Capital Appreciation Strategy 233,7,5,2,19.88
+233,Amy Hudson,3,1,4,0,0,356898,4,234,Speculation Strategy 234,2,6,2,26.950000000000003
+234,Gregory James,5,1,3,0,0,913493,4,235,Capital Appreciation Strategy 235,8,5,2,24.59
+235,Steven Berry,5,0,3,4,1,338697,3,236,Capital Appreciation Strategy 236,4,4,1,15.21
+236,Christina Turner,6,0,2,0,3,136112,2,237,Aggressive Income Strategy 237,5,4,2,20.630000000000003
+237,Anita Mcgee,6,3,4,2,1,405263,4,238,Speculation Strategy 238,2,5,1,51.449999999999996
+238,James Carter,5,3,1,4,2,211097,6,239,Income Strategy 239,5,2,1,24.93
+239,Raymond Reed,3,1,4,0,3,549424,3,240,Speculation Strategy 240,2,7,2,16.63
+240,Nancy Lee,5,4,3,0,1,511203,3,241,Capital Appreciation Strategy 241,4,5,2,17.299999999999997
+241,Brandy Hernandez,6,4,2,0,3,200167,5,242,Aggressive Income Strategy 242,7,3,1,24.86
+242,Benjamin Ross,2,2,3,1,0,800945,6,243,Capital Appreciation Strategy 243,4,4,1,21.97
+243,Regina Briggs,3,1,4,0,3,922847,6,244,Speculation Strategy 244,2,7,2,31.5
+244,Michael Davis,1,1,4,3,2,426975,6,245,Speculation Strategy 245,1,6,2,28.63
+245,Louis Petersen,5,0,3,1,4,673250,6,246,Capital Appreciation Strategy 246,6,6,2,57.879999999999995
+246,Amy Thomas,1,2,1,3,0,645985,3,247,Income Strategy 247,7,1,1,25.82
+247,Brianna Saunders,6,0,2,3,4,972296,3,248,Aggressive Income Strategy 248,8,4,2,18.099999999999998
+248,Jonathan Butler,3,2,1,4,3,544207,2,249,Income Strategy 249,8,2,0,17.02
+249,Christopher Johnson,6,0,2,0,1,180315,2,250,Aggressive Income Strategy 250,5,4,2,11.459999999999999
+250,Karen Hicks,2,0,1,3,0,715419,5,251,Income Strategy 251,2,1,1,25.180000000000003
+251,Donna Perez,6,3,2,0,4,585654,2,252,Aggressive Income Strategy 252,3,4,1,17.53
+252,Jason Cabrera,5,2,4,0,3,464433,2,253,Speculation Strategy 253,8,6,1,30.330000000000002
+253,Jonathan Erickson,4,0,3,0,2,477573,6,254,Capital Appreciation Strategy 254,1,5,2,21.43
+254,Robert West,1,1,2,0,4,367702,5,255,Aggressive Income Strategy 255,1,4,1,49.62
+255,Stacy Gilbert,2,0,2,4,3,805232,4,256,Aggressive Income Strategy 256,7,3,1,39.6
+256,Tammy Hernandez,2,0,1,2,0,343647,1,257,Income Strategy 257,7,1,1,18.84
+257,Tonya Edwards,5,2,4,0,3,834401,5,258,Speculation Strategy 258,1,7,2,31.35
+258,Brian Fleming,3,0,3,0,1,163434,1,259,Capital Appreciation Strategy 259,5,5,2,23.09
+259,Barbara Mcintyre,2,0,4,0,1,61808,5,260,Speculation Strategy 260,5,6,2,22.81
+260,Melanie Walsh,4,1,3,0,2,952048,1,261,Capital Appreciation Strategy 261,5,4,1,21.8
+261,Justin Graham,3,0,4,2,3,691970,1,262,Speculation Strategy 262,5,6,1,27.88
+262,Susan Hammond,1,3,2,1,4,562012,2,263,Aggressive Income Strategy 263,8,4,1,433.79
+263,Erin Golden,4,4,2,1,3,841107,3,264,Aggressive Income Strategy 264,4,3,1,18.72
+264,Jessica Wilson,4,1,3,0,2,73542,5,265,Capital Appreciation Strategy 265,6,4,1,21.709999999999997
+265,Ashley Baldwin,4,4,1,0,0,164110,3,266,Income Strategy 266,7,1,1,36.39
+266,Benjamin Flowers,3,0,3,1,0,171546,5,267,Capital Appreciation Strategy 267,1,4,1,36.919999999999995
+267,Jean Bradley,4,0,3,0,0,644888,1,268,Capital Appreciation Strategy 268,5,5,2,23.72
+268,Cole Hall,3,0,2,1,4,716256,6,269,Aggressive Income Strategy 269,8,4,1,20.45
+269,Michelle Hall DDS,5,0,4,1,3,972392,3,270,Speculation Strategy 270,6,6,1,32.57
+270,Destiny Hamilton,3,0,4,3,1,971822,1,271,Speculation Strategy 271,7,5,1,17.82
+271,Jared Morris,3,1,2,3,0,382813,6,272,Aggressive Income Strategy 272,8,3,2,17.8
+272,Derrick Howard,1,1,3,0,2,19920,2,273,Capital Appreciation Strategy 273,3,5,2,24.08
+273,Stephen Simmons,5,4,2,1,3,670596,6,274,Aggressive Income Strategy 274,5,3,1,29.26
+274,Christian Moore,4,0,1,2,3,621382,6,275,Income Strategy 275,1,2,1,20.560000000000002
+275,Mary Henderson,5,0,2,1,4,689180,4,276,Aggressive Income Strategy 276,1,4,1,44.21
+276,Jay Whitaker,5,0,2,4,3,524420,3,277,Aggressive Income Strategy 277,7,3,1,26.16
+277,Andrew Henderson,1,4,2,1,3,650508,5,278,Aggressive Income Strategy 278,2,3,1,29.57
+278,Alexandria Brooks,2,2,1,0,4,572445,5,279,Income Strategy 279,1,2,1,36.09
+279,Laura Baker,1,4,2,0,1,600983,1,280,Aggressive Income Strategy 280,3,3,1,23.72
+280,Andrew Bean,1,3,2,0,1,854129,5,281,Aggressive Income Strategy 281,6,3,1,21.69
+281,Crystal Owens,1,2,4,0,1,200264,6,282,Speculation Strategy 282,5,5,1,21.23
+282,Austin Zuniga,5,3,1,2,0,656265,4,283,Income Strategy 283,8,1,0,15.03
+283,Christine Adams,1,0,3,4,2,643118,1,284,Capital Appreciation Strategy 284,4,5,2,22.75
+284,Ashley Snow,6,1,3,4,0,467727,1,285,Capital Appreciation Strategy 285,8,4,1,13.459999999999999
+285,Cynthia Johnson,4,0,3,1,4,884348,4,286,Capital Appreciation Strategy 286,4,6,2,16.93
+286,Jonathan Johnson,5,2,3,0,4,460476,4,287,Capital Appreciation Strategy 287,2,5,1,20.830000000000002
+287,Alexis Mccarthy,6,0,2,0,4,770472,4,288,Aggressive Income Strategy 288,3,4,1,25.6
+288,Rachel Davis,3,3,4,0,0,171503,1,289,Speculation Strategy 289,4,6,2,20.27
+289,Luis Garcia,3,0,2,3,1,659331,6,290,Aggressive Income Strategy 290,4,3,1,16.03
+290,Nichole Rose,4,0,1,3,0,980898,1,291,Income Strategy 291,6,1,1,24.77
+291,Matthew Williams,3,0,3,0,4,677526,3,292,Capital Appreciation Strategy 292,7,5,1,20.830000000000002
+292,Travis Hernandez,6,2,3,0,0,753424,4,293,Capital Appreciation Strategy 293,1,5,2,31.0
+293,Adam Jordan,2,0,1,4,3,379130,3,294,Income Strategy 294,2,2,0,19.32
+294,Mr. Bobby Lee MD,5,1,2,3,4,528306,2,295,Aggressive Income Strategy 295,1,4,2,21.46
+295,Michael Ramirez,1,0,4,2,1,327172,3,296,Speculation Strategy 296,2,5,1,18.990000000000002
+296,James Montes,3,1,4,3,0,213716,5,297,Speculation Strategy 297,1,6,2,27.139999999999997
+297,Peter Garcia,3,3,1,2,0,507180,1,298,Income Strategy 298,2,1,1,21.73
+298,Chris Moore,6,0,4,2,3,977279,6,299,Speculation Strategy 299,1,7,2,25.380000000000003
+299,Andrew Mullen,3,2,1,3,4,600483,6,300,Income Strategy 300,2,2,0,28.76
+300,Evan Young,4,0,3,2,1,128108,4,301,Capital Appreciation Strategy 301,5,4,1,43.74
+301,Catherine Mays,1,0,1,0,4,76873,1,302,Income Strategy 302,7,2,1,18.48
+302,Christopher Bryant,1,0,2,4,1,110408,1,303,Aggressive Income Strategy 303,2,4,2,119.48
+303,Chase Nichols,6,1,4,0,3,970963,5,304,Speculation Strategy 304,6,6,1,16.61
+304,William Trevino,1,0,3,0,2,453800,1,305,Capital Appreciation Strategy 305,4,5,2,22.97
+305,Mark Reed,1,2,4,0,1,496969,2,306,Speculation Strategy 306,5,5,1,25.259999999999998
+306,Wayne Hanson,6,0,1,4,3,630150,6,307,Income Strategy 307,2,2,0,17.45
+307,Christopher Huff,5,3,4,0,2,938038,4,308,Speculation Strategy 308,2,6,2,25.09
+308,Regina Stewart,5,0,1,3,2,499170,1,309,Income Strategy 309,8,2,1,26.39
+309,Howard Rollins,6,2,3,0,4,558861,6,310,Capital Appreciation Strategy 310,2,5,1,21.66
+310,Madison Williams,5,4,1,0,2,340148,2,311,Income Strategy 311,7,1,0,24.25
+311,Joanna Lewis,1,0,3,2,4,636331,1,312,Capital Appreciation Strategy 312,4,5,1,21.87
+312,Brian Daugherty,6,0,3,0,2,559747,1,313,Capital Appreciation Strategy 313,7,4,1,18.61
+313,Jim Fuentes,1,4,3,0,1,601129,1,314,Capital Appreciation Strategy 314,8,4,1,29.26
+314,Kimberly Davis,2,3,2,1,4,331296,6,315,Aggressive Income Strategy 315,8,4,2,17.14
+315,Kayla Brown,4,0,2,1,3,405567,2,316,Aggressive Income Strategy 316,5,4,2,19.52
+316,Antonio Marks,2,0,4,0,0,40832,4,317,Speculation Strategy 317,5,5,1,34.35
+317,Courtney Hendrix,4,0,2,4,1,240153,5,318,Aggressive Income Strategy 318,4,3,1,17.669999999999998
+318,Eric Ayers,6,4,1,0,2,940390,3,319,Income Strategy 319,8,2,1,30.19
+319,Joshua Cook,4,2,1,0,0,975015,2,320,Income Strategy 320,5,1,1,41.42
+320,Natasha Hobbs,5,4,3,2,1,990574,6,321,Capital Appreciation Strategy 321,1,4,1,19.56
+321,Christopher Copeland,4,0,2,4,3,152010,3,322,Aggressive Income Strategy 322,7,4,2,39.269999999999996
+322,Jessica Craig,3,0,3,2,0,314792,3,323,Capital Appreciation Strategy 323,6,4,1,21.990000000000002
+323,Kathy Cantu,1,2,4,1,3,790582,4,324,Speculation Strategy 324,8,6,1,22.52
+324,Tyler Perez,5,0,4,3,2,713019,1,325,Speculation Strategy 325,5,6,1,21.310000000000002
+325,Nicholas Brown,2,3,1,0,2,423794,1,326,Income Strategy 326,7,1,0,19.41
+326,Ryan Wolf,2,0,1,4,3,713532,4,327,Income Strategy 327,3,2,1,19.13
+327,Keith Le,2,0,4,1,0,285170,3,328,Speculation Strategy 328,7,6,2,27.72
+328,Jessica Baird,2,0,1,4,0,769934,4,329,Income Strategy 329,4,1,1,18.970000000000002
+329,Jason Williams,5,0,4,2,3,73748,6,330,Speculation Strategy 330,1,6,1,40.5
+330,Laura Jefferson,5,2,3,0,1,833884,5,331,Capital Appreciation Strategy 331,8,4,1,22.759999999999998
+331,Ryan Gutierrez,5,1,3,0,2,888968,6,332,Capital Appreciation Strategy 332,1,4,1,20.49
+332,Dakota Kelly,4,0,1,3,0,958820,4,333,Income Strategy 333,1,1,0,14.11
+333,Emily Chang,4,0,2,3,1,543938,4,334,Aggressive Income Strategy 334,7,3,1,19.85
+334,Lisa Summers,2,0,1,0,2,719786,2,335,Income Strategy 335,2,2,1,16.919999999999998
+335,Karen Oneal,3,0,1,0,3,14767,5,336,Income Strategy 336,1,2,0,30.31
+336,Eric Chang,2,4,3,0,1,740968,1,337,Capital Appreciation Strategy 337,7,5,2,23.169999999999998
+337,Lisa Prince,1,4,1,2,3,764082,2,338,Income Strategy 338,7,2,0,18.42
+338,Marie Wood,2,0,1,4,3,315780,6,339,Income Strategy 339,2,2,1,51.980000000000004
+339,Marvin White,6,0,3,1,4,59403,6,340,Capital Appreciation Strategy 340,4,6,2,14.219999999999999
+340,Eric Wright,3,0,3,0,0,576677,1,341,Capital Appreciation Strategy 341,8,5,2,101.38000000000001
+341,Jennifer Lee,5,3,4,1,0,484921,3,342,Speculation Strategy 342,3,6,2,26.240000000000002
+342,Robert Underwood,1,0,4,1,2,17239,5,343,Speculation Strategy 343,2,6,1,15.82
+343,Bryan Collins,5,0,2,3,1,94017,4,344,Aggressive Income Strategy 344,4,4,2,17.88
+344,Tara Smith,1,0,4,3,0,732793,5,345,Speculation Strategy 345,8,6,2,13.94
+345,Jason Williams,6,0,4,0,3,905790,1,346,Speculation Strategy 346,4,7,2,18.55
+346,Todd Barron,6,0,4,2,3,949210,2,347,Speculation Strategy 347,5,6,1,20.64
+347,Nicholas Dixon,6,0,3,0,1,125155,4,348,Capital Appreciation Strategy 348,8,5,2,18.509999999999998
+348,Thomas Williams,1,1,3,4,0,961885,6,349,Capital Appreciation Strategy 349,3,5,2,512.5899999999999
+349,Richard Wells,6,4,2,0,0,826918,3,350,Aggressive Income Strategy 350,8,3,2,22.97
+350,Michael Campbell,1,0,3,2,1,88076,1,351,Capital Appreciation Strategy 351,8,4,1,18.58
+351,Jesus Davidson,2,0,3,0,2,670269,6,352,Capital Appreciation Strategy 352,8,4,1,21.73
+352,Margaret Miles,3,0,3,2,1,344747,6,353,Capital Appreciation Strategy 353,6,4,1,21.97
+353,Antonio Beck,2,0,3,2,4,164341,3,354,Capital Appreciation Strategy 354,6,5,1,15.740000000000002
+354,Courtney Martin,6,0,2,3,1,815430,2,355,Aggressive Income Strategy 355,5,3,1,22.07
+355,Sean Moran,6,3,4,0,1,336153,2,356,Speculation Strategy 356,2,6,2,65.53999999999999
+356,Michael Black,2,0,2,3,1,730636,1,357,Aggressive Income Strategy 357,6,4,2,16.35
+357,Jillian Hampton,2,0,3,1,0,834444,1,358,Capital Appreciation Strategy 358,8,5,2,26.43
+358,Michael Larson,3,0,1,0,3,716971,2,359,Income Strategy 359,1,2,0,21.77
+359,Melissa Allison,6,0,1,2,4,509568,2,360,Income Strategy 360,5,2,0,34.65
+360,Mackenzie Melton,4,0,2,0,1,374354,2,361,Aggressive Income Strategy 361,3,3,1,56.940000000000005
+361,Andrew Long,2,2,3,0,0,254690,6,362,Capital Appreciation Strategy 362,4,5,2,21.13
+362,Emily Gardner,6,0,4,3,2,450331,3,363,Speculation Strategy 363,5,6,2,29.9
+363,Brian Hinton,6,0,1,0,2,912468,3,364,Income Strategy 364,4,2,1,14.96
+364,Dustin Oliver,5,1,2,0,3,674789,3,365,Aggressive Income Strategy 365,2,4,2,26.44
+365,Christina Morales,5,0,4,3,2,557661,1,366,Speculation Strategy 366,8,6,1,33.44
+366,Carla Tran,2,0,1,2,4,195965,3,367,Income Strategy 367,3,2,1,20.810000000000002
+367,Alyssa Osborne,6,0,3,0,1,399497,3,368,Capital Appreciation Strategy 368,1,5,2,17.65
+368,Derek Madden,4,0,4,2,0,357660,4,369,Speculation Strategy 369,7,5,1,20.3
+369,George Tanner,2,2,3,0,0,346429,1,370,Capital Appreciation Strategy 370,3,4,1,17.46
+370,Jared Wall,3,4,1,3,2,192435,3,371,Income Strategy 371,6,2,1,35.06
+371,Carrie Rose,1,0,3,4,0,815763,5,372,Capital Appreciation Strategy 372,3,5,2,26.1
+372,Jennifer Fernandez,1,0,2,0,0,81094,4,373,Aggressive Income Strategy 373,6,3,1,16.56
+373,Keith Young,2,2,1,4,0,467972,2,374,Income Strategy 374,3,1,0,17.89
+374,Alejandro Henderson,6,0,2,4,3,492760,6,375,Aggressive Income Strategy 375,1,3,1,20.919999999999998
+375,Dr. Michael Harris,5,2,4,0,3,552196,5,376,Speculation Strategy 376,5,7,2,20.66
+376,Randy Martin,3,3,2,1,4,299564,3,377,Aggressive Income Strategy 377,2,4,2,19.939999999999998
+377,Yolanda Holder,5,0,4,3,2,868052,6,378,Speculation Strategy 378,5,6,2,30.12
+378,Jessica Vincent,5,3,4,2,1,971263,3,379,Speculation Strategy 379,4,5,1,37.269999999999996
+379,Jared Morgan,6,2,3,0,1,490633,4,380,Capital Appreciation Strategy 380,2,4,1,25.97
+380,David Edwards,4,1,3,4,0,286301,1,381,Capital Appreciation Strategy 381,6,5,2,24.4
+381,Kevin Bennett,2,2,4,0,3,508567,5,382,Speculation Strategy 382,8,7,2,19.36
+382,Stephanie Rojas MD,2,0,3,1,0,747751,4,383,Capital Appreciation Strategy 383,3,5,2,10.79
+383,John Odom,1,0,3,0,1,856908,3,384,Capital Appreciation Strategy 384,7,4,1,21.41
+384,Caroline Rivas,6,4,1,2,3,295525,2,385,Income Strategy 385,1,2,1,18.47
+385,Robert Garcia,4,1,2,0,3,365589,2,386,Aggressive Income Strategy 386,3,3,1,18.09
+386,Savannah Lynn,4,0,4,2,0,835733,2,387,Speculation Strategy 387,8,5,1,10.15
+387,Tamara Pruitt,1,0,3,2,1,373464,6,388,Capital Appreciation Strategy 388,6,4,1,18.38
+388,Jordan Gibbs,2,0,4,2,3,643932,2,389,Speculation Strategy 389,5,7,2,30.67
+389,Jessica Evans,5,0,1,0,4,253185,3,390,Income Strategy 390,5,2,1,20.19
+390,Johnny Nunez,4,0,1,4,2,142082,1,391,Income Strategy 391,8,1,0,16.88
+391,Brandon Garcia,5,4,3,1,0,666595,6,392,Capital Appreciation Strategy 392,8,4,1,21.44
+392,Brandon Hunter DDS,6,2,3,0,0,804852,4,393,Capital Appreciation Strategy 393,3,5,2,21.13
+393,Matthew Rush,1,0,3,1,4,648568,3,394,Capital Appreciation Strategy 394,3,5,1,19.2
+394,Randall Le,5,0,4,3,1,598663,6,395,Speculation Strategy 395,7,5,1,38.34
+395,David Long,3,0,4,3,0,988288,5,396,Speculation Strategy 396,2,5,1,30.34
+396,Juan Vincent,4,2,3,4,1,571166,6,397,Capital Appreciation Strategy 397,1,4,1,13.68
+397,Melissa Yates,5,3,4,2,1,620500,4,398,Speculation Strategy 398,2,5,1,17.130000000000003
+398,Patricia Davis,6,0,2,4,1,124636,4,399,Aggressive Income Strategy 399,7,4,2,20.91
+399,Christopher Nolan,3,0,3,1,2,259398,5,400,Capital Appreciation Strategy 400,5,4,1,18.85
+400,Gabrielle Ferguson,2,4,1,3,2,167433,2,401,Income Strategy 401,6,1,0,17.34
+401,Alec Holland,5,0,1,3,2,43955,5,402,Income Strategy 402,8,1,0,29.78
+402,Jason Gordon,6,0,3,0,1,542855,1,403,Capital Appreciation Strategy 403,5,4,1,25.6
+403,Michael Kelly,6,0,1,3,2,367028,2,404,Income Strategy 404,2,2,1,21.029999999999998
+404,Luis Jacobs,6,1,2,3,4,549310,1,405,Aggressive Income Strategy 405,5,4,2,15.53
+405,Darius Lewis,3,0,4,1,2,600571,3,406,Speculation Strategy 406,4,6,2,36.22
+406,Ray Williams,2,2,1,3,0,883574,1,407,Income Strategy 407,4,1,0,15.409999999999998
+407,Michael Shepard,6,0,2,0,1,602456,1,408,Aggressive Income Strategy 408,6,4,2,-0.85
+408,Garrett Bush,4,0,1,4,3,88116,6,409,Income Strategy 409,3,2,1,21.86
+409,Alexis Huerta,3,4,3,2,0,893278,6,410,Capital Appreciation Strategy 410,2,4,1,23.5
+410,Dawn Garcia,3,0,2,3,1,143162,2,411,Aggressive Income Strategy 411,1,3,1,23.53
+411,Zachary Palmer,3,4,3,1,0,509941,3,412,Capital Appreciation Strategy 412,1,5,2,23.75
+412,Patricia Collier,6,0,1,4,2,269925,2,413,Income Strategy 413,2,1,0,19.48
+413,Bridget Palmer,5,0,2,0,4,879832,6,414,Aggressive Income Strategy 414,2,4,1,22.919999999999998
+414,Anthony Ramirez,1,0,3,4,1,796888,4,415,Capital Appreciation Strategy 415,6,4,1,36.63
+415,Jason Castillo,3,4,2,3,0,827016,5,416,Aggressive Income Strategy 416,1,3,2,32.32
+416,Lauren Matthews,6,0,3,1,4,321843,5,417,Capital Appreciation Strategy 417,1,5,1,29.81
+417,Caitlin Cook,6,0,1,4,3,242800,1,418,Income Strategy 418,5,2,1,25.569999999999997
+418,Katherine Schultz,5,3,2,4,0,609342,2,419,Aggressive Income Strategy 419,4,3,2,14.52
+419,Ashley Perry,2,0,4,0,3,225905,6,420,Speculation Strategy 420,4,7,2,22.63
+420,Megan May,1,0,4,3,2,747862,3,421,Speculation Strategy 421,1,6,1,20.1
+421,Walter Blankenship,3,0,4,3,2,416285,5,422,Speculation Strategy 422,6,6,2,17.69
+422,Amanda Robinson,4,0,4,1,3,478466,5,423,Speculation Strategy 423,8,6,1,23.24
+423,Daniel Wilson,5,0,1,3,0,594689,3,424,Income Strategy 424,4,1,0,28.15
+424,Debbie Thornton,2,0,1,4,0,146364,1,425,Income Strategy 425,6,1,1,18.52
+425,Cheryl Monroe,2,2,4,0,1,74796,2,426,Speculation Strategy 426,8,5,1,20.51
+426,Mrs. Madison Lowery,4,1,4,0,2,324664,5,427,Speculation Strategy 427,6,6,1,27.250000000000004
+427,Rebecca Terrell,3,4,3,0,0,829184,1,428,Capital Appreciation Strategy 428,7,4,1,41.21
+428,James Luna,1,3,1,2,0,238372,1,429,Income Strategy 429,1,1,1,18.78
+429,Matthew Bryant,4,0,3,0,2,323208,4,430,Capital Appreciation Strategy 430,7,5,2,29.880000000000003
+430,Melinda Webster,3,0,4,3,1,632667,6,431,Speculation Strategy 431,8,5,1,24.88
+431,Ashley Grant,5,0,4,0,3,427957,5,432,Speculation Strategy 432,5,7,2,21.14
+432,Sarah Bonilla,3,0,1,3,0,847396,2,433,Income Strategy 433,5,1,0,16.59
+433,Jonathan Bowman,2,4,3,0,1,914736,5,434,Capital Appreciation Strategy 434,4,5,2,16.259999999999998
+434,Hannah Pittman,4,4,1,0,3,920429,2,435,Income Strategy 435,1,2,0,44.95
+435,Chad Hammond,2,1,2,3,0,360831,3,436,Aggressive Income Strategy 436,1,3,1,22.15
+436,Anthony Lozano,3,0,1,2,0,585345,4,437,Income Strategy 437,6,1,1,18.88
+437,Hannah Pace,2,0,3,1,4,49996,3,438,Capital Appreciation Strategy 438,6,5,1,24.26
+438,Kimberly Lopez,4,0,4,0,0,783799,1,439,Speculation Strategy 439,5,5,1,23.32
+439,Tina King,2,0,1,0,4,305427,2,440,Income Strategy 440,2,2,1,17.23
+440,Stephanie Chavez,1,4,2,0,0,244471,3,441,Aggressive Income Strategy 441,6,3,1,21.93
+441,Shannon Cohen,4,0,1,2,3,218796,6,442,Income Strategy 442,4,2,1,19.7
+442,Christopher Berg,3,0,1,0,0,421733,6,443,Income Strategy 443,4,1,1,26.41
+443,Michael Rivera,2,0,1,0,2,135821,2,444,Income Strategy 444,2,1,0,20.71
+444,Kyle Nguyen,3,4,3,2,0,276380,2,445,Capital Appreciation Strategy 445,4,4,1,44.22
+445,Carla Acevedo,5,0,4,3,1,828267,4,446,Speculation Strategy 446,8,5,1,27.33
+446,Kevin Hammond,3,4,3,0,1,222266,6,447,Capital Appreciation Strategy 447,7,5,2,26.889999999999997
+447,Alyssa Wilson,3,1,3,2,4,246312,3,448,Capital Appreciation Strategy 448,8,5,1,24.44
+448,Tina Fox,2,0,4,1,0,503498,4,449,Speculation Strategy 449,1,5,1,16.66
+449,Adam Nichols,1,0,2,4,1,703926,5,450,Aggressive Income Strategy 450,2,3,1,50.61
+450,Kayla Hart,1,0,2,3,1,962547,4,451,Aggressive Income Strategy 451,8,4,2,33.68
+451,Jeffrey Benjamin,2,2,4,0,3,93975,6,452,Speculation Strategy 452,1,7,2,29.799999999999997
+452,Katherine King,4,0,4,2,3,883579,3,453,Speculation Strategy 453,7,6,1,27.97
+453,Erin Anderson,6,1,2,4,0,596215,4,454,Aggressive Income Strategy 454,1,3,2,26.77
+454,Bobby Lambert,2,2,3,4,0,865122,4,455,Capital Appreciation Strategy 455,6,4,1,32.66
+455,Michael Jones,3,3,1,0,4,333156,1,456,Income Strategy 456,7,2,1,18.11
+456,Jack Schroeder,6,1,2,4,3,639244,6,457,Aggressive Income Strategy 457,5,3,1,13.969999999999999
+457,Maria Fisher,4,0,4,0,1,810453,5,458,Speculation Strategy 458,8,5,1,17.28
+458,Keith Russell,3,0,2,4,3,593705,6,459,Aggressive Income Strategy 459,5,3,1,19.3
+459,Lawrence Mccoy,5,0,3,2,4,499481,3,460,Capital Appreciation Strategy 460,6,6,2,29.54
+460,Timothy Johnson,4,3,4,2,0,286704,2,461,Speculation Strategy 461,7,5,1,21.52
+461,Julie Lee,3,0,2,4,0,497768,4,462,Aggressive Income Strategy 462,2,3,2,17.19
+462,James Foster,3,3,2,0,1,270636,6,463,Aggressive Income Strategy 463,8,3,1,18.23
+463,Jeffrey Tucker,6,0,3,4,0,780303,5,464,Capital Appreciation Strategy 464,3,4,1,15.909999999999998
+464,Allison Scott,3,0,1,3,2,870535,1,465,Income Strategy 465,4,2,1,26.3
+465,Joel Daniels,4,0,3,4,2,52816,4,466,Capital Appreciation Strategy 466,8,5,2,23.31
+466,Michelle Copeland,1,4,2,0,1,728739,4,467,Aggressive Income Strategy 467,8,4,2,17.14
+467,Michael Jackson,4,0,1,4,2,847195,6,468,Income Strategy 468,2,2,1,19.81
+468,Christopher Taylor,2,4,1,2,0,562153,5,469,Income Strategy 469,3,1,0,18.7
+469,Carlos Gates,3,0,2,4,3,434491,6,470,Aggressive Income Strategy 470,6,3,1,20.21
+470,Debra Hammond,1,0,2,3,4,942593,6,471,Aggressive Income Strategy 471,5,4,1,28.43
+471,Mrs. Madison Brown,5,0,3,2,4,578864,5,472,Capital Appreciation Strategy 472,8,5,1,28.57
+472,Calvin Bell,5,0,2,0,1,785789,4,473,Aggressive Income Strategy 473,4,4,2,55.88999999999999
+473,Joshua King,4,0,2,0,4,895781,1,474,Aggressive Income Strategy 474,8,4,1,30.130000000000003
+474,Timothy Stephens,2,0,3,1,0,585254,3,475,Capital Appreciation Strategy 475,8,5,2,22.7
+475,Michael Thomas,2,4,2,0,1,145417,5,476,Aggressive Income Strategy 476,2,3,1,19.06
+476,Jacqueline Baker,4,0,4,3,2,69408,1,477,Speculation Strategy 477,4,6,2,27.41
+477,Daniel Garcia,5,1,2,0,0,912047,6,478,Aggressive Income Strategy 478,2,3,1,19.56
+478,Dr. Scott Tyler,5,1,3,0,2,567559,5,479,Capital Appreciation Strategy 479,7,5,2,25.96
+479,Robert Cook,1,0,1,0,2,670771,6,480,Income Strategy 480,4,2,1,25.36
+480,Christie Anderson,3,0,4,1,2,529554,1,481,Speculation Strategy 481,5,6,1,18.84
+481,Amber Garcia,3,0,4,0,2,427327,1,482,Speculation Strategy 482,2,6,2,16.17
+482,Jennifer Castillo,1,4,1,0,3,428471,4,483,Income Strategy 483,1,2,1,20.549999999999997
+483,Madeline Gross,6,0,1,2,3,157191,3,484,Income Strategy 484,1,2,0,22.869999999999997
+484,Mark Chaney,1,0,1,3,4,551039,6,485,Income Strategy 485,6,2,1,20.599999999999998
+485,Sharon Nguyen,1,0,1,4,0,537892,5,486,Income Strategy 486,1,1,0,26.640000000000004
+486,Kyle Thomas,4,0,4,0,2,793002,4,487,Speculation Strategy 487,5,6,2,21.72
+487,Danielle Baker,1,1,3,4,0,185057,2,488,Capital Appreciation Strategy 488,5,5,2,27.089999999999996
+488,Gregory Mccarthy,5,0,3,0,2,724025,4,489,Capital Appreciation Strategy 489,6,5,2,28.46
+489,Austin Ashley,1,0,2,4,3,670634,5,490,Aggressive Income Strategy 490,3,4,2,46.989999999999995
+490,Thomas Davis,1,0,2,0,4,947294,4,491,Aggressive Income Strategy 491,5,4,2,26.889999999999997
+491,Kyle Knight,6,4,3,0,2,973623,5,492,Capital Appreciation Strategy 492,2,4,1,22.34
+492,Ms. Alicia Jones,6,0,4,3,1,556928,1,493,Speculation Strategy 493,1,6,2,18.91
+493,Valerie Hall MD,6,2,4,3,0,797123,5,494,Speculation Strategy 494,4,6,2,14.149999999999999
+494,Adrian Flowers,3,0,3,4,1,905278,6,495,Capital Appreciation Strategy 495,8,5,2,14.34
+495,Elizabeth Day,5,0,4,2,0,460707,2,496,Speculation Strategy 496,3,6,2,18.47
+496,Gina Payne,1,0,2,1,3,498840,5,497,Aggressive Income Strategy 497,1,3,1,28.060000000000002
+497,Sandra Stark,4,0,3,0,1,667547,2,498,Capital Appreciation Strategy 498,7,5,2,22.3
+498,Angela Johnson,2,3,1,0,2,89578,4,499,Income Strategy 499,8,2,1,19.81
+499,Maria Decker,3,3,1,4,2,841884,1,500,Income Strategy 500,3,1,0,193.79
+500,Caleb Garcia,6,4,1,0,3,482008,5,501,Income Strategy 501,5,2,1,17.16
+501,Donald Payne,1,0,2,1,0,198439,2,502,Aggressive Income Strategy 502,4,3,2,28.660000000000004
+502,Thomas Harvey,4,1,2,0,3,793994,2,503,Aggressive Income Strategy 503,3,3,1,18.62
+503,Candice Hawkins,6,1,3,2,4,994946,2,504,Capital Appreciation Strategy 504,4,5,1,16.89
+504,Stanley Jones,1,3,1,4,0,551084,4,505,Income Strategy 505,2,1,0,22.33
+505,Erin Cooper,6,4,3,0,1,48935,6,506,Capital Appreciation Strategy 506,3,5,2,22.5
+506,Steven Anderson,6,1,3,4,2,314268,5,507,Capital Appreciation Strategy 507,4,4,1,29.970000000000002
+507,Colleen Wheeler,4,3,1,0,2,408235,4,508,Income Strategy 508,6,2,1,21.4
+508,Brandon Kirby,6,2,4,0,1,887816,3,509,Speculation Strategy 509,2,5,1,27.529999999999998
+509,Paul Alexander,3,4,2,0,0,924235,3,510,Aggressive Income Strategy 510,8,3,2,27.62
+510,Mrs. Jodi Hayes,5,3,1,4,2,236970,4,511,Income Strategy 511,4,1,0,23.64
+511,Jacob Martin,6,4,3,2,1,994384,6,512,Capital Appreciation Strategy 512,1,4,1,26.05
+512,Christina Underwood,2,0,4,0,3,667118,4,513,Speculation Strategy 513,7,6,1,16.64
+513,Ashley Erickson,4,0,4,1,0,589594,5,514,Speculation Strategy 514,5,6,2,28.33
+514,Kenneth Rose,4,3,4,1,0,779653,2,515,Speculation Strategy 515,1,5,1,23.23
+515,Richard Fox,1,0,2,0,1,457673,3,516,Aggressive Income Strategy 516,7,4,2,27.92
+516,Scott Odom,3,3,4,0,1,434416,1,517,Speculation Strategy 517,5,5,1,19.96
+517,Jon King,5,3,2,4,1,440557,3,518,Aggressive Income Strategy 518,5,3,1,24.81
+518,Joshua Cummings,4,2,4,0,3,442883,5,519,Speculation Strategy 519,3,6,1,17.37
+519,Elizabeth Baker,3,2,4,1,0,619172,1,520,Speculation Strategy 520,5,6,2,27.43
+520,Russell Yates,3,0,2,0,1,423200,6,521,Aggressive Income Strategy 521,1,3,1,18.13
+521,Michelle Peters,4,3,1,0,4,528024,4,522,Income Strategy 522,8,2,0,2.75
+522,Susan Smith,2,1,2,4,3,962634,4,523,Aggressive Income Strategy 523,4,3,1,19.259999999999998
+523,Michael Barnes,2,0,3,0,2,412889,5,524,Capital Appreciation Strategy 524,1,5,2,25.88
+524,Jonathan Cummings,2,0,4,2,1,609052,2,525,Speculation Strategy 525,2,6,2,27.16
+525,Jordan Warner,6,0,1,3,4,919268,5,526,Income Strategy 526,4,2,0,26.729999999999997
+526,Audrey Michael,3,1,4,0,2,467597,6,527,Speculation Strategy 527,3,6,1,26.540000000000003
+527,Kara Cochran MD,6,1,4,0,2,226185,3,528,Speculation Strategy 528,5,6,1,15.32
+528,Daniel Burke,4,0,3,1,2,658624,3,529,Capital Appreciation Strategy 529,1,4,1,28.15
+529,Cristina Newman,5,0,4,2,1,956838,3,530,Speculation Strategy 530,8,6,2,18.09
+530,John Hampton,3,1,3,2,4,781683,1,531,Capital Appreciation Strategy 531,2,6,2,35.699999999999996
+531,Joanna Johnston,6,4,1,2,0,81761,4,532,Income Strategy 532,6,1,1,24.15
+532,Yvonne Day,1,1,4,0,3,813741,2,533,Speculation Strategy 533,1,6,1,22.38
+533,Anthony Cortez,1,0,3,4,1,267501,4,534,Capital Appreciation Strategy 534,2,4,1,21.78
+534,Lindsay Pacheco,1,0,4,1,2,347569,4,535,Speculation Strategy 535,6,6,2,24.98
+535,David King,2,0,2,3,4,184498,2,536,Aggressive Income Strategy 536,2,4,2,27.1
+536,Travis Alvarez,2,2,3,0,0,925318,2,537,Capital Appreciation Strategy 537,3,5,2,24.7
+537,Samuel Rios,5,1,2,0,0,269327,6,538,Aggressive Income Strategy 538,8,3,1,20.16
+538,Donna Sanchez,2,0,3,0,1,203410,2,539,Capital Appreciation Strategy 539,3,5,2,22.66
+539,Brandon Cochran,4,0,4,3,0,650111,1,540,Speculation Strategy 540,6,6,2,30.98
+540,Marie Morrison,4,4,3,2,1,104473,5,541,Capital Appreciation Strategy 541,6,4,1,20.03
+541,Michael Weaver,3,0,2,1,0,970043,6,542,Aggressive Income Strategy 542,6,3,2,29.04
+542,Jeremy Cooke,4,0,1,0,3,564033,5,543,Income Strategy 543,7,2,0,22.5
+543,John Smith,5,3,1,2,4,517496,2,544,Income Strategy 544,6,2,1,18.33
+544,Terri Castro,6,3,1,4,2,574727,1,545,Income Strategy 545,2,1,0,22.17
+545,John Watson,1,0,2,4,0,313105,2,546,Aggressive Income Strategy 546,4,3,1,28.860000000000003
+546,Laurie Alvarado DVM,3,0,1,4,0,924084,2,547,Income Strategy 547,7,1,1,19.900000000000002
+547,Sophia Horton,3,0,3,0,4,918092,5,548,Capital Appreciation Strategy 548,7,6,2,19.139999999999997
+548,Stephanie Cannon,2,4,3,1,0,257241,2,549,Capital Appreciation Strategy 549,6,4,1,17.14
+549,Eric Marquez,4,0,2,0,3,733637,1,550,Aggressive Income Strategy 550,6,3,1,22.97
+550,Krista Valentine,1,0,1,4,2,578170,4,551,Income Strategy 551,4,2,1,13.77
+551,Linda Hernandez,6,4,2,3,1,702967,3,552,Aggressive Income Strategy 552,2,3,1,26.150000000000002
+552,Kimberly Harrison,3,3,2,4,1,743661,5,553,Aggressive Income Strategy 553,8,3,1,24.42
+553,Pamela Dodson,1,0,2,0,1,802558,2,554,Aggressive Income Strategy 554,6,4,2,19.1
+554,Kimberly Paul,6,0,1,2,0,520670,6,555,Income Strategy 555,1,1,0,21.86
+555,Ryan Horton,6,0,1,3,4,348603,6,556,Income Strategy 556,5,2,1,28.439999999999998
+556,Alex Cortez,1,2,4,1,3,457177,5,557,Speculation Strategy 557,1,6,1,35.75
+557,Andrea Mcfarland,1,0,1,0,2,959411,1,558,Income Strategy 558,8,2,1,21.85
+558,Patrick Willis,5,3,1,0,2,746713,2,559,Income Strategy 559,3,1,0,9.78
+559,Aaron Walker,4,0,4,0,1,926567,4,560,Speculation Strategy 560,4,6,2,22.28
+560,Bridget Cline,3,4,2,0,1,226341,2,561,Aggressive Income Strategy 561,4,3,1,19.25
+561,Anna Brennan,1,3,2,4,1,479812,1,562,Aggressive Income Strategy 562,1,3,1,23.46
+562,Laurie Mckee,4,0,2,4,3,621351,5,563,Aggressive Income Strategy 563,2,4,2,17.4
+563,Corey Hall,6,2,1,0,3,174482,5,564,Income Strategy 564,2,2,0,32.379999999999995
+564,Joseph Smith,5,3,1,2,0,573545,5,565,Income Strategy 565,2,1,0,19.759999999999998
+565,Stephen Jones,3,0,2,3,0,75588,4,566,Aggressive Income Strategy 566,6,3,2,25.31
+566,Jennifer Turner,2,4,2,0,1,802457,4,567,Aggressive Income Strategy 567,2,4,2,23.93
+567,Mrs. Jessica Castillo,4,0,1,4,2,646035,2,568,Income Strategy 568,7,2,1,24.86
+568,Christopher Swanson,5,4,3,1,0,430695,1,569,Capital Appreciation Strategy 569,1,4,1,32.72
+569,Mark Reynolds,6,0,1,4,0,100543,4,570,Income Strategy 570,6,1,1,24.83
+570,Brian Cole,3,0,3,1,2,326343,4,571,Capital Appreciation Strategy 571,6,5,2,16.05
+571,Alyssa Lawrence,2,4,2,0,1,406459,3,572,Aggressive Income Strategy 572,6,3,1,29.299999999999997
+572,Derrick Mason,5,0,4,3,2,508384,2,573,Speculation Strategy 573,6,6,1,14.249999999999998
+573,Mr. Jeff Jones Jr.,2,0,4,1,3,943357,4,574,Speculation Strategy 574,2,6,1,23.5
+574,Zachary Vaughn,1,0,3,2,1,321047,6,575,Capital Appreciation Strategy 575,2,5,2,28.95
+575,Michelle Bright,4,0,3,4,1,423434,5,576,Capital Appreciation Strategy 576,6,5,2,26.900000000000002
+576,Eric Miranda,4,3,2,1,4,836444,6,577,Aggressive Income Strategy 577,1,4,2,13.94
+577,Tracy Calhoun,1,2,1,4,3,66849,1,578,Income Strategy 578,4,2,1,36.85
+578,Megan Rodgers,3,0,2,1,4,643122,3,579,Aggressive Income Strategy 579,5,4,1,18.95
+579,Anthony Nicholson,6,0,3,0,2,799050,5,580,Capital Appreciation Strategy 580,1,4,1,25.259999999999998
+580,Tony Sanchez,3,0,3,4,2,464683,3,581,Capital Appreciation Strategy 581,4,4,1,22.37
+581,Michael Oconnell,1,0,2,0,3,347708,4,582,Aggressive Income Strategy 582,1,4,2,27.1
+582,Miguel Miles,6,3,4,0,2,738008,4,583,Speculation Strategy 583,2,6,2,18.83
+583,Brian Martinez,5,0,1,4,3,359635,6,584,Income Strategy 584,6,2,1,23.3
+584,Marie Jones DDS,6,0,4,1,0,297019,4,585,Speculation Strategy 585,2,5,1,31.180000000000003
+585,John Garcia,5,4,2,0,1,991439,2,586,Aggressive Income Strategy 586,7,4,2,26.240000000000002
+586,Ronald Glover,4,0,4,0,3,451651,2,587,Speculation Strategy 587,4,7,2,16.27
+587,Cameron Salazar,6,3,1,0,4,347905,5,588,Income Strategy 588,1,2,1,25.95
+588,Jerry Ferguson,2,0,1,3,0,655162,1,589,Income Strategy 589,8,1,1,37.63
+589,Charles Alvarado,3,1,3,0,0,888862,2,590,Capital Appreciation Strategy 590,4,4,1,23.64
+590,Mark Hays,6,0,4,0,1,33659,6,591,Speculation Strategy 591,6,5,1,35.589999999999996
+591,Jennifer Carroll,6,2,1,3,0,239166,2,592,Income Strategy 592,8,1,0,22.57
+592,Maria Frazier,1,4,2,0,1,547281,3,593,Aggressive Income Strategy 593,8,3,1,15.35
+593,Dustin Torres,2,0,2,0,3,497375,3,594,Aggressive Income Strategy 594,8,3,1,28.189999999999998
+594,Stephen Jones,3,0,4,3,1,852927,2,595,Speculation Strategy 595,1,6,2,19.24
+595,Anthony Blake,5,3,2,0,4,475163,5,596,Aggressive Income Strategy 596,3,4,2,29.189999999999998
+596,Teresa Ramirez,2,1,3,0,4,995170,2,597,Capital Appreciation Strategy 597,3,5,1,21.6
+597,Keith Bell,1,0,4,2,1,379564,1,598,Speculation Strategy 598,4,6,2,11.26
+598,Deborah Murphy,4,2,3,4,0,684419,4,599,Capital Appreciation Strategy 599,5,5,2,41.339999999999996
+599,Michele Riley,6,0,1,3,0,656028,2,600,Income Strategy 600,3,1,0,30.15
+600,Amy Little,1,0,2,3,0,253056,1,601,Aggressive Income Strategy 601,7,3,2,21.07
+601,Wyatt Bryan,4,0,4,3,2,172880,6,602,Speculation Strategy 602,2,6,1,20.05
+602,Bryan French,3,0,3,0,2,895106,6,603,Capital Appreciation Strategy 603,3,5,2,35.980000000000004
+603,Anita Vasquez,3,0,4,1,2,565928,2,604,Speculation Strategy 604,4,6,2,14.790000000000001
+604,Yvonne Williams,5,1,4,0,3,372759,6,605,Speculation Strategy 605,1,6,1,31.430000000000003
+605,Stacy Horton,5,0,4,0,3,33610,5,606,Speculation Strategy 606,5,7,2,20.080000000000002
+606,Brandon Barker,3,0,4,0,2,320046,1,607,Speculation Strategy 607,5,6,2,21.87
+607,Samantha Webster,6,4,2,0,1,729774,4,608,Aggressive Income Strategy 608,5,4,2,27.689999999999998
+608,Elizabeth Hart,6,0,1,4,3,548272,4,609,Income Strategy 609,2,2,1,18.83
+609,Sabrina Riley,6,0,1,0,3,80380,3,610,Income Strategy 610,4,2,0,22.16
+610,Carl Wong,6,2,1,0,4,966738,3,611,Income Strategy 611,5,2,0,30.869999999999997
+611,Samuel Morales,6,0,2,0,1,48012,4,612,Aggressive Income Strategy 612,8,3,1,27.49
+612,Jesus Mccoy,1,0,3,1,4,829302,6,613,Capital Appreciation Strategy 613,3,5,1,26.950000000000003
+613,Nathan Holmes,1,0,2,4,0,899940,2,614,Aggressive Income Strategy 614,4,3,1,18.360000000000003
+614,Michael Burns,2,2,3,0,0,475612,5,615,Capital Appreciation Strategy 615,5,5,2,20.71
+615,Dana Foley,6,0,2,0,4,253577,3,616,Aggressive Income Strategy 616,8,4,1,30.259999999999998
+616,Leah Hull,2,1,2,0,3,442997,1,617,Aggressive Income Strategy 617,7,3,1,47.31
+617,Kimberly Thompson,2,4,1,0,2,755018,2,618,Income Strategy 618,5,2,1,27.560000000000002
+618,Lisa Vang,5,4,3,2,0,162115,5,619,Capital Appreciation Strategy 619,7,5,2,19.400000000000002
+619,Randy Allen,5,0,1,3,2,947407,4,620,Income Strategy 620,2,2,1,23.49
+620,David Anderson,2,0,1,0,4,821630,1,621,Income Strategy 621,7,2,1,22.56
+621,Megan Estrada,6,0,1,0,4,796549,2,622,Income Strategy 622,3,2,1,52.62
+622,James Harrell,1,0,2,0,4,18105,3,623,Aggressive Income Strategy 623,2,4,1,23.68
+623,Andrew Morgan,6,3,2,1,4,681955,2,624,Aggressive Income Strategy 624,5,4,1,22.55
+624,Natasha Noble,1,2,3,4,0,585361,6,625,Capital Appreciation Strategy 625,1,5,2,22.85
+625,Lisa Tucker,1,4,1,2,0,748525,4,626,Income Strategy 626,7,1,1,23.97
+626,Dawn Evans MD,4,0,4,1,3,990614,2,627,Speculation Strategy 627,3,7,2,26.68
+627,Randy Moore,2,0,4,1,2,486255,5,628,Speculation Strategy 628,7,6,2,14.46
+628,Claudia Walter,4,0,2,0,1,838896,5,629,Aggressive Income Strategy 629,6,4,2,15.870000000000001
+629,Tara Barnes,4,3,4,1,2,154828,2,630,Speculation Strategy 630,5,6,1,18.73
+630,Jerry Rhodes,3,1,2,3,4,964496,6,631,Aggressive Income Strategy 631,3,4,1,35.77
+631,Jessica Huff,5,0,2,1,3,405253,4,632,Aggressive Income Strategy 632,8,3,1,19.040000000000003
+632,John Holt,2,0,1,0,4,377892,5,633,Income Strategy 633,4,2,1,21.65
+633,Monique Stuart,1,3,2,4,0,254642,5,634,Aggressive Income Strategy 634,8,3,2,25.869999999999997
+634,Bruce Miller,3,2,4,3,0,359207,5,635,Speculation Strategy 635,6,6,2,16.97
+635,Holly Jones,1,3,2,1,4,429370,1,636,Aggressive Income Strategy 636,5,4,2,19.37
+636,Jordan Martinez,3,0,3,0,4,972693,6,637,Capital Appreciation Strategy 637,4,6,2,21.98
+637,Erin Leach,3,4,1,3,2,653224,5,638,Income Strategy 638,1,1,0,19.759999999999998
+638,John Zimmerman,6,0,1,0,4,995043,4,639,Income Strategy 639,8,2,0,30.03
+639,Ricky Schmidt,4,0,3,0,4,29695,4,640,Capital Appreciation Strategy 640,1,6,2,23.06
+640,Kenneth Romero,2,0,1,2,3,651465,3,641,Income Strategy 641,7,2,1,20.36
+641,Kurt Lewis,5,0,4,0,1,681517,6,642,Speculation Strategy 642,5,6,2,16.33
+642,Adam Hamilton,2,1,3,0,2,394717,5,643,Capital Appreciation Strategy 643,2,4,1,19.46
+643,Laura Martin,1,4,2,3,0,309618,1,644,Aggressive Income Strategy 644,3,3,1,13.139999999999999
+644,Bonnie Compton,2,2,3,0,1,359059,2,645,Capital Appreciation Strategy 645,3,4,1,17.73
+645,Michael Butler,2,2,3,4,1,274625,4,646,Capital Appreciation Strategy 646,6,4,1,20.09
+646,Allison Malone,5,0,3,2,4,490953,6,647,Capital Appreciation Strategy 647,8,6,2,18.13
+647,Shawn Anderson,2,1,2,0,4,652881,5,648,Aggressive Income Strategy 648,8,4,2,33.52
+648,Julie Rhodes,5,0,3,2,0,98501,4,649,Capital Appreciation Strategy 649,4,5,2,33.06
+649,Yolanda Barron,6,0,4,0,3,830395,4,650,Speculation Strategy 650,4,7,2,25.05
+650,Christopher Garcia,5,3,2,4,0,861984,3,651,Aggressive Income Strategy 651,3,3,1,22.03
+651,Eric Herrera,2,0,4,1,2,671771,4,652,Speculation Strategy 652,6,6,2,15.690000000000001
+652,Teresa Ruiz,2,0,3,1,4,538929,4,653,Capital Appreciation Strategy 653,3,5,1,20.560000000000002
+653,Maria Simmons,6,2,1,0,3,768078,5,654,Income Strategy 654,6,2,0,19.15
+654,David White,6,0,2,4,0,14267,3,655,Aggressive Income Strategy 655,7,3,2,22.78
+655,Kristin Anderson,2,0,2,0,0,513570,1,656,Aggressive Income Strategy 656,2,3,2,23.1
+656,Katie Gordon,6,0,4,2,0,900693,5,657,Speculation Strategy 657,5,5,1,19.54
+657,Lisa Jackson,5,2,3,0,0,955964,5,658,Capital Appreciation Strategy 658,2,4,1,17.69
+658,Jeffrey Campbell,3,1,4,0,3,816734,5,659,Speculation Strategy 659,4,6,1,14.069999999999999
+659,Michael Terry,4,0,4,0,2,759983,6,660,Speculation Strategy 660,1,6,2,18.73
+660,Karen Roberts,4,0,1,0,3,569710,2,661,Income Strategy 661,4,2,1,40.54
+661,Jeffrey Garcia,5,2,4,3,0,843770,3,662,Speculation Strategy 662,4,6,2,22.189999999999998
+662,Rebecca Dixon,4,3,1,2,0,929370,2,663,Income Strategy 663,3,1,0,14.64
+663,Stephanie Holland,3,0,2,0,0,274448,4,664,Aggressive Income Strategy 664,5,3,1,17.36
+664,Peter Koch,4,0,4,3,1,370119,4,665,Speculation Strategy 665,3,6,2,21.529999999999998
+665,Mr. Stephen Brown,4,3,2,0,1,811394,4,666,Aggressive Income Strategy 666,1,3,1,29.38
+666,Cathy Powell,6,0,4,3,1,625350,5,667,Speculation Strategy 667,1,5,1,18.37
+667,Christine Davis,3,0,1,0,2,395549,2,668,Income Strategy 668,2,1,0,30.320000000000004
+668,Annette Thompson,2,0,4,3,1,773510,5,669,Speculation Strategy 669,3,6,2,16.939999999999998
+669,Christine Gray,3,2,4,0,3,475884,4,670,Speculation Strategy 670,3,6,1,23.380000000000003
+670,Garrett White,1,1,4,2,3,445039,3,671,Speculation Strategy 671,2,6,1,17.84
+671,Tara Irwin,4,0,1,3,4,62537,5,672,Income Strategy 672,5,2,1,15.340000000000002
+672,Susan Miller,2,0,1,4,2,808184,2,673,Income Strategy 673,6,1,0,21.98
+673,Samantha Heath,5,0,1,4,0,609334,2,674,Income Strategy 674,2,1,1,20.28
+674,Michael Wright,5,1,2,3,4,524115,5,675,Aggressive Income Strategy 675,3,4,2,21.09
+675,Frank Osborne,2,0,2,1,0,662119,4,676,Aggressive Income Strategy 676,6,3,1,40.150000000000006
+676,Daniel Olson,2,0,4,2,0,999957,6,677,Speculation Strategy 677,2,5,1,17.65
+677,Isaac Smith,5,0,2,3,0,238299,6,678,Aggressive Income Strategy 678,2,3,2,152.02
+678,Amy Perez,1,0,2,3,1,903899,2,679,Aggressive Income Strategy 679,4,3,1,20.93
+679,Karen Medina,6,0,3,0,0,874578,4,680,Capital Appreciation Strategy 680,2,4,1,28.310000000000002
+680,Judy Kennedy,5,0,1,3,4,429590,3,681,Income Strategy 681,2,2,0,27.49
+681,Mrs. Lindsay Smith,2,3,4,1,0,171703,3,682,Speculation Strategy 682,6,6,2,22.57
+682,Janet Patterson,4,0,2,3,4,581179,3,683,Aggressive Income Strategy 683,5,4,2,31.819999999999997
+683,Nicholas Garcia,1,0,3,2,1,568696,1,684,Capital Appreciation Strategy 684,7,4,1,32.01
+684,Cassandra Holmes,3,1,4,0,2,797173,1,685,Speculation Strategy 685,8,6,2,15.6
+685,Crystal Marquez,4,0,3,0,1,669461,1,686,Capital Appreciation Strategy 686,6,4,1,24.099999999999998
+686,Lindsey Wilson,1,0,3,4,2,746496,5,687,Capital Appreciation Strategy 687,2,4,1,14.29
+687,Krystal Roth,4,0,1,2,4,550514,5,688,Income Strategy 688,7,2,0,26.529999999999998
+688,Christopher Valenzuela,1,4,1,0,0,18065,6,689,Income Strategy 689,6,1,0,40.53
+689,Brandon Jones,1,0,4,1,2,502624,3,690,Speculation Strategy 690,5,6,1,24.69
+690,Richard Townsend,5,0,4,2,0,162102,2,691,Speculation Strategy 691,8,6,2,29.849999999999998
+691,Anne Ford,2,0,1,0,4,959163,4,692,Income Strategy 692,3,2,0,16.59
+692,Mark Holder,5,4,3,0,2,187818,4,693,Capital Appreciation Strategy 693,6,5,2,30.31
+693,Mr. Louis Simmons,4,0,3,4,2,493055,5,694,Capital Appreciation Strategy 694,6,5,2,20.44
+694,Evan Atkins,4,3,1,2,0,662773,5,695,Income Strategy 695,2,1,0,19.99
+695,Cody Case,6,4,2,0,1,750874,6,696,Aggressive Income Strategy 696,3,3,1,20.380000000000003
+696,Stanley Porter,3,0,4,3,0,34031,4,697,Speculation Strategy 697,5,5,1,16.400000000000002
+697,Zachary Jackson,4,3,4,0,2,92323,1,698,Speculation Strategy 698,3,6,2,14.799999999999999
+698,Jesus Hernandez,4,0,4,2,3,30104,5,699,Speculation Strategy 699,7,6,1,28.74
+699,Sharon Williams,6,2,4,1,0,999160,4,700,Speculation Strategy 700,3,5,1,16.31
+700,Tanner Gallegos,5,2,1,3,0,625240,5,701,Income Strategy 701,1,1,0,26.68
+701,Patricia Boyd,3,0,2,4,0,757248,1,702,Aggressive Income Strategy 702,4,3,2,17.0
+702,Anthony Black,3,0,3,4,1,781542,2,703,Capital Appreciation Strategy 703,3,5,2,14.69
+703,Teresa Mckenzie,4,1,3,4,0,573802,5,704,Capital Appreciation Strategy 704,8,5,2,22.68
+704,Jennifer Ruiz,5,0,2,0,1,534206,5,705,Aggressive Income Strategy 705,2,3,1,17.06
+705,Adrian Thompson,4,3,1,0,0,780068,4,706,Income Strategy 706,6,1,0,27.089999999999996
+706,Mark Castillo,5,0,4,3,1,210314,1,707,Speculation Strategy 707,7,5,1,290.87
+707,Nicole Johnson,3,0,2,0,1,211296,5,708,Aggressive Income Strategy 708,5,4,2,16.73
+708,Scott Jones,5,0,1,0,3,510169,6,709,Income Strategy 709,1,2,0,20.22
+709,Karen Barron,4,0,3,1,4,724790,3,710,Capital Appreciation Strategy 710,7,5,1,18.0
+710,Lisa Sheppard,5,2,1,4,3,677110,2,711,Income Strategy 711,5,2,1,12.08
+711,Stephanie Miller,4,0,3,2,4,44937,6,712,Capital Appreciation Strategy 712,4,5,1,38.47
+712,Abigail Hess,1,1,3,4,0,159713,3,713,Capital Appreciation Strategy 713,5,4,1,44.59
+713,Todd Berg,6,2,1,4,3,271585,6,714,Income Strategy 714,5,2,0,20.45
+714,Joel Yang,5,0,1,0,4,545356,2,715,Income Strategy 715,6,2,0,19.580000000000002
+715,Donna Kaufman,1,0,2,0,3,881856,3,716,Aggressive Income Strategy 716,2,3,1,32.940000000000005
+716,Eric Soto,6,0,1,4,2,699913,2,717,Income Strategy 717,6,1,0,24.93
+717,Cory Mercer,5,3,4,0,1,116453,6,718,Speculation Strategy 718,5,6,2,20.09
+718,Mr. Stephen Williams DDS,3,1,2,4,3,579528,2,719,Aggressive Income Strategy 719,7,3,1,48.0
+719,John Hall,4,0,1,4,3,292036,3,720,Income Strategy 720,4,2,1,24.43
+720,James Ward,4,0,4,1,3,246448,4,721,Speculation Strategy 721,4,7,2,33.57
+721,Taylor Cox,1,0,2,1,4,99798,6,722,Aggressive Income Strategy 722,3,4,1,-15.01
+722,Karen Gonzalez,4,0,1,2,3,705768,1,723,Income Strategy 723,1,2,0,24.529999999999998
+723,Diana Mclaughlin,6,4,3,0,1,516924,3,724,Capital Appreciation Strategy 724,5,4,1,23.830000000000002
+724,Daniel Martin,3,2,3,4,1,949449,2,725,Capital Appreciation Strategy 725,6,4,1,16.39
+725,Christopher Gomez,6,4,1,3,0,403222,5,726,Income Strategy 726,7,1,1,20.14
+726,Samantha Tran,4,0,4,0,1,954172,1,727,Speculation Strategy 727,6,6,2,25.840000000000003
+727,Kristen Rose,5,3,2,4,1,476816,2,728,Aggressive Income Strategy 728,8,4,2,22.49
+728,Bruce Mckee,1,2,4,1,3,24647,5,729,Speculation Strategy 729,1,7,2,39.900000000000006
+729,Brandi Collier,6,0,3,0,1,622423,6,730,Capital Appreciation Strategy 730,5,4,1,24.3
+730,Heather Smith,2,4,1,0,2,450529,6,731,Income Strategy 731,6,2,1,18.19
+731,Patricia Whitaker,6,0,1,2,4,338829,6,732,Income Strategy 732,3,2,0,31.47
+732,Eric Thompson,1,0,4,3,2,77566,1,733,Speculation Strategy 733,7,6,2,18.41
+733,Jacob Richmond,1,0,4,1,0,550376,5,734,Speculation Strategy 734,7,6,2,22.259999999999998
+734,Kimberly Christian,5,4,1,0,3,37178,3,735,Income Strategy 735,7,2,1,27.55
+735,Robert Sanders,4,4,1,0,3,576527,2,736,Income Strategy 736,7,2,1,22.61
+736,Justin Blackburn,4,0,3,0,4,676397,5,737,Capital Appreciation Strategy 737,5,5,1,36.730000000000004
+737,Beth Foley,6,0,4,0,0,834965,4,738,Speculation Strategy 738,2,5,1,16.89
+738,Shirley Parrish,1,2,4,0,1,820361,4,739,Speculation Strategy 739,6,6,2,20.73
+739,Michael Martin,4,1,4,0,2,710685,1,740,Speculation Strategy 740,3,6,2,51.62
+740,Jamie Valenzuela,6,0,1,0,4,378863,4,741,Income Strategy 741,3,2,0,31.89
+741,Seth Thompson,3,4,2,1,0,263805,3,742,Aggressive Income Strategy 742,7,3,2,21.46
+742,Shannon Wood,5,4,3,0,2,836281,4,743,Capital Appreciation Strategy 743,1,4,1,18.42
+743,Elizabeth Stone,6,0,2,3,1,626707,6,744,Aggressive Income Strategy 744,2,3,1,14.84
+744,Karen Camacho,3,0,1,2,0,999059,6,745,Income Strategy 745,4,1,1,23.27
+745,Michael White,2,4,3,1,0,318689,1,746,Capital Appreciation Strategy 746,4,4,1,26.150000000000002
+746,Mike Weber,4,0,3,1,0,732568,3,747,Capital Appreciation Strategy 747,1,4,1,24.87
+747,Cynthia White,2,0,1,4,2,395336,2,748,Income Strategy 748,2,1,0,26.009999999999998
+748,Katie Lawrence,4,3,1,2,4,221337,6,749,Income Strategy 749,5,2,1,16.53
+749,Joe Ellis,3,4,2,0,3,281392,1,750,Aggressive Income Strategy 750,5,4,2,18.790000000000003
+750,Ryan Mendoza,6,0,1,0,4,442506,5,751,Income Strategy 751,1,2,0,18.44
+751,Andrew Hawkins,6,0,4,2,1,397173,6,752,Speculation Strategy 752,8,6,2,16.96
+752,Christopher Pacheco,6,3,4,2,1,373831,6,753,Speculation Strategy 753,4,6,2,15.64
+753,Donald King,5,0,3,2,4,325626,6,754,Capital Appreciation Strategy 754,5,6,2,16.73
+754,Austin Glenn,3,0,4,3,1,971226,2,755,Speculation Strategy 755,8,5,1,34.98
+755,James Williams,3,0,3,2,4,59091,5,756,Capital Appreciation Strategy 756,7,5,1,19.32
+756,Frank Bowman,4,0,1,0,3,832606,5,757,Income Strategy 757,1,2,1,18.310000000000002
+757,Tony Rose,1,0,4,0,2,658918,2,758,Speculation Strategy 758,8,6,1,24.3
+758,Meghan Craig,1,0,4,3,0,422576,2,759,Speculation Strategy 759,3,6,2,23.630000000000003
+759,Jonathon Tucker,6,0,3,2,4,266797,5,760,Capital Appreciation Strategy 760,2,5,1,31.990000000000002
+760,Randall Wilson,6,0,1,0,4,288161,2,761,Income Strategy 761,3,2,0,17.2
+761,Kevin Saunders,5,1,2,4,0,433492,6,762,Aggressive Income Strategy 762,7,3,1,20.73
+762,Mary Brown,2,1,3,2,0,220719,3,763,Capital Appreciation Strategy 763,4,5,2,15.4
+763,Alicia Wolfe,2,3,4,2,0,641557,2,764,Speculation Strategy 764,2,6,2,49.55
+764,Robert Kent,1,0,3,4,1,616280,4,765,Capital Appreciation Strategy 765,6,5,2,32.33
+765,Jamie Yang,3,3,4,0,1,827971,5,766,Speculation Strategy 766,6,5,1,108.92999999999999
+766,David Shea,5,0,4,1,0,93408,3,767,Speculation Strategy 767,3,6,2,20.23
+767,Glenn Drake,1,0,3,0,4,290760,4,768,Capital Appreciation Strategy 768,8,6,2,45.36
+768,Alan Anderson,1,0,2,0,4,477568,1,769,Aggressive Income Strategy 769,1,4,2,15.85
+769,James Butler,2,0,2,3,0,837084,2,770,Aggressive Income Strategy 770,4,3,2,28.09
+770,Jennifer Huerta,1,0,4,1,2,726311,2,771,Speculation Strategy 771,6,6,2,16.45
+771,Curtis Warren,1,0,2,1,0,12568,1,772,Aggressive Income Strategy 772,4,3,2,24.95
+772,Victoria Barton,4,2,4,0,3,525389,3,773,Speculation Strategy 773,3,6,1,21.18
+773,Daniel Trevino,4,3,2,0,1,537624,5,774,Aggressive Income Strategy 774,7,3,1,36.63
+774,Michelle Wiley,6,0,3,0,4,368099,2,775,Capital Appreciation Strategy 775,8,6,2,15.459999999999999
+775,Sally Allen,3,0,2,3,1,675861,3,776,Aggressive Income Strategy 776,1,4,2,20.21
+776,Christine Cantu,4,0,3,1,0,771860,5,777,Capital Appreciation Strategy 777,3,4,1,29.09
+777,Sean Frye,4,0,2,1,3,828803,1,778,Aggressive Income Strategy 778,7,4,2,19.259999999999998
+778,Tonya Martinez,1,4,2,0,3,502771,5,779,Aggressive Income Strategy 779,7,4,2,36.09
+779,Kimberly Marquez,1,0,2,1,3,572143,5,780,Aggressive Income Strategy 780,6,3,1,23.630000000000003
+780,Johnathan Berry,5,0,3,2,1,918696,4,781,Capital Appreciation Strategy 781,2,4,1,123.15
+781,Charlotte Cabrera,3,3,2,0,4,419795,1,782,Aggressive Income Strategy 782,6,4,2,26.16
+782,Jennifer Gomez,5,0,2,0,1,855830,1,783,Aggressive Income Strategy 783,7,4,2,20.24
+783,Joseph Simpson,4,0,3,4,1,581788,6,784,Capital Appreciation Strategy 784,2,4,1,10.45
+784,Gary Ross,6,4,2,3,0,298524,4,785,Aggressive Income Strategy 785,1,3,1,21.07
+785,John Oliver,1,0,3,4,0,679785,2,786,Capital Appreciation Strategy 786,1,4,1,59.56
+786,Brian Gomez,2,0,1,0,2,914115,1,787,Income Strategy 787,6,2,1,24.23
+787,Kevin Mcguire,6,0,2,0,4,975219,6,788,Aggressive Income Strategy 788,1,4,2,32.39
+788,Christopher Lang,4,2,4,3,0,602345,2,789,Speculation Strategy 789,6,5,1,30.880000000000003
+789,Debra Ramsey,6,3,2,1,4,407977,2,790,Aggressive Income Strategy 790,1,4,2,17.990000000000002
+790,Jessica Scott,1,3,2,4,0,625181,3,791,Aggressive Income Strategy 791,5,3,2,30.54
+791,Lauren Oconnor,4,0,1,3,0,801041,3,792,Income Strategy 792,2,1,0,22.29
+792,Gloria Lynch,1,2,3,4,0,457959,1,793,Capital Appreciation Strategy 793,4,4,1,13.700000000000001
+793,Kaylee Brown,3,0,2,1,4,786975,2,794,Aggressive Income Strategy 794,4,4,1,13.67
+794,Deborah Solis,6,0,3,2,0,887255,4,795,Capital Appreciation Strategy 795,3,5,2,26.46
+795,Kevin Tran,4,3,2,0,4,391408,2,796,Aggressive Income Strategy 796,6,4,2,26.71
+796,Cody Thomas,5,0,2,1,3,854603,2,797,Aggressive Income Strategy 797,3,3,1,14.680000000000001
+797,Nicholas Castillo,5,0,1,4,3,352453,6,798,Income Strategy 798,4,2,1,33.1
+798,Warren Johnson,1,0,3,1,4,336544,5,799,Capital Appreciation Strategy 799,7,5,1,39.739999999999995
+799,Michelle Cummings,5,1,4,2,3,710832,5,800,Speculation Strategy 800,5,7,2,29.909999999999997
+800,James Mcmillan,2,3,4,2,1,473228,6,801,Speculation Strategy 801,3,5,1,25.06
+801,Dr. Cassandra Thornton,6,0,4,0,2,148701,6,802,Speculation Strategy 802,7,6,2,21.709999999999997
+802,Victoria Garcia,4,0,4,0,3,434357,1,803,Speculation Strategy 803,6,7,2,38.37
+803,Brian Pace,4,0,2,0,1,375867,3,804,Aggressive Income Strategy 804,3,4,2,24.19
+804,Robert Lee,4,0,3,1,4,635051,4,805,Capital Appreciation Strategy 805,1,5,1,24.42
+805,Daniel Robles,5,1,4,0,0,908549,4,806,Speculation Strategy 806,7,5,1,32.53
+806,Brianna Pierce,4,2,4,1,3,280833,3,807,Speculation Strategy 807,3,6,1,20.9
+807,Stacey Murphy,4,0,3,2,4,201130,4,808,Capital Appreciation Strategy 808,2,6,2,23.02
+808,Justin Andrews,4,0,2,3,1,676537,6,809,Aggressive Income Strategy 809,8,4,2,24.0
+809,Jennifer Mccullough,3,0,3,2,4,466045,2,810,Capital Appreciation Strategy 810,5,5,1,16.77
+810,Mariah Davis,2,0,3,2,4,421199,4,811,Capital Appreciation Strategy 811,7,5,1,27.189999999999998
+811,Jason Davis,3,2,3,0,0,873307,6,812,Capital Appreciation Strategy 812,1,4,1,13.8
+812,Kimberly Ellis,4,0,3,0,1,302942,6,813,Capital Appreciation Strategy 813,5,4,1,17.59
+813,Alexis Shaw,3,0,1,3,4,717743,1,814,Income Strategy 814,8,2,0,40.81
+814,Diana Jackson,2,0,1,4,3,871565,2,815,Income Strategy 815,2,2,1,16.64
+815,Cindy Mack,3,4,2,0,1,896312,4,816,Aggressive Income Strategy 816,4,4,2,22.13
+816,Robert Castro,3,3,4,2,1,821827,4,817,Speculation Strategy 817,6,6,2,30.59
+817,Tyler Bryant,2,1,2,3,4,566138,2,818,Aggressive Income Strategy 818,5,4,1,19.509999999999998
+818,Austin Hanson,6,0,2,3,1,69066,6,819,Aggressive Income Strategy 819,8,4,2,23.65
+819,David Underwood,5,2,4,0,0,329969,1,820,Speculation Strategy 820,3,5,1,15.07
+820,Terri Nunez,2,2,1,0,4,426265,2,821,Income Strategy 821,5,2,1,22.56
+821,Joel Garza,2,0,4,0,2,998218,1,822,Speculation Strategy 822,7,6,1,16.77
+822,Emily Harris,1,0,4,1,3,225866,3,823,Speculation Strategy 823,4,6,1,21.81
+823,Sarah Thompson,5,0,2,0,3,441312,2,824,Aggressive Income Strategy 824,2,4,2,22.32
+824,Dalton Bautista,1,0,1,2,3,874890,1,825,Income Strategy 825,8,2,0,16.34
+825,Roberto Griffin,6,0,4,3,2,454765,4,826,Speculation Strategy 826,4,6,1,33.910000000000004
+826,Tracy Parsons,5,0,3,1,4,990423,3,827,Capital Appreciation Strategy 827,2,6,2,23.26
+827,Jonathan Thomas,4,0,3,0,2,258799,5,828,Capital Appreciation Strategy 828,3,5,2,19.82
+828,Diane Clark,1,0,2,0,0,602558,2,829,Aggressive Income Strategy 829,6,3,2,16.54
+829,Erika Vaughn,4,0,4,0,3,810787,5,830,Speculation Strategy 830,4,6,1,19.439999999999998
+830,Amanda Herman,5,0,4,3,1,55982,5,831,Speculation Strategy 831,1,6,2,27.35
+831,Sharon Lee,4,0,2,0,1,838935,1,832,Aggressive Income Strategy 832,8,4,2,25.86
+832,Christy Zhang,3,0,2,3,4,210983,3,833,Aggressive Income Strategy 833,7,4,2,23.9
+833,Wayne Mcdaniel,3,0,2,0,1,558025,2,834,Aggressive Income Strategy 834,7,4,2,383.34999999999997
+834,Elizabeth Hudson,3,4,3,1,0,572527,2,835,Capital Appreciation Strategy 835,1,4,1,14.069999999999999
+835,Wesley Hughes,4,3,2,0,4,824390,1,836,Aggressive Income Strategy 836,4,4,1,23.04
+836,Samantha Walker,4,0,2,4,1,683726,2,837,Aggressive Income Strategy 837,1,4,2,25.230000000000004
+837,Crystal Cook,5,0,1,4,2,417753,1,838,Income Strategy 838,8,2,1,33.62
+838,Peter Ward,5,1,4,3,2,90861,5,839,Speculation Strategy 839,6,6,2,26.790000000000003
+839,Sarah Larson,3,4,2,1,3,796788,2,840,Aggressive Income Strategy 840,7,4,2,19.400000000000002
+840,Roberta Long,1,2,3,0,4,65779,3,841,Capital Appreciation Strategy 841,5,6,2,13.26
+841,Brett Nielsen,4,0,4,1,2,520375,6,842,Speculation Strategy 842,4,6,2,30.470000000000002
+842,Steven Perry,4,0,3,1,2,133353,1,843,Capital Appreciation Strategy 843,2,5,2,14.44
+843,Cindy Davis,2,2,4,0,3,779396,2,844,Speculation Strategy 844,1,6,1,17.89
+844,Brenda Nunez,1,0,2,0,1,546548,2,845,Aggressive Income Strategy 845,2,3,1,24.97
+845,James Cox,6,0,3,2,1,818360,6,846,Capital Appreciation Strategy 846,4,4,1,27.58
+846,Derek Miller,5,3,2,0,4,63536,5,847,Aggressive Income Strategy 847,7,4,2,42.6
+847,Jennifer Ramos,2,0,1,3,4,863244,3,848,Income Strategy 848,8,2,0,29.599999999999998
+848,Teresa Carr,5,0,1,0,3,862865,1,849,Income Strategy 849,6,2,1,21.959999999999997
+849,Jason Little,1,0,3,4,2,525505,1,850,Capital Appreciation Strategy 850,2,5,2,21.25
+850,James Chavez,4,1,2,3,0,997403,6,851,Aggressive Income Strategy 851,1,3,1,16.07
+851,Kimberly Martinez,3,3,4,0,1,162457,4,852,Speculation Strategy 852,7,5,1,22.73
+852,Daniel Morgan PhD,6,4,1,2,0,629658,1,853,Income Strategy 853,5,1,1,34.79
+853,Robert Hartman,2,0,4,2,0,10024,2,854,Speculation Strategy 854,2,5,1,17.32
+854,Robert Wilson,3,0,4,0,2,481711,5,855,Speculation Strategy 855,1,6,1,18.78
+855,Nathaniel Adams,1,0,4,0,2,183285,3,856,Speculation Strategy 856,6,6,1,22.45
+856,Kristin Taylor,1,0,2,0,4,220003,5,857,Aggressive Income Strategy 857,3,4,2,24.64
+857,Shaun Carroll,2,0,4,1,2,316306,4,858,Speculation Strategy 858,7,6,2,25.740000000000002
+858,Jared Williams,4,1,3,2,0,871956,3,859,Capital Appreciation Strategy 859,4,4,1,15.97
+859,Nicole Walters,2,0,4,2,3,224128,5,860,Speculation Strategy 860,3,6,1,23.13
+860,Shane Simpson,4,0,3,2,1,285478,2,861,Capital Appreciation Strategy 861,8,4,1,36.24
+861,Cassandra Cummings,3,3,2,4,0,331942,3,862,Aggressive Income Strategy 862,8,3,2,29.89
+862,Lauren Copeland,3,2,4,0,3,175871,5,863,Speculation Strategy 863,2,6,1,25.66
+863,Cassie Davis,6,0,2,4,0,429601,1,864,Aggressive Income Strategy 864,7,3,1,23.59
+864,Stephen Williams Jr.,3,0,1,2,0,774171,2,865,Income Strategy 865,5,1,0,22.3
+865,Kevin Hunt,3,0,3,1,4,185008,3,866,Capital Appreciation Strategy 866,4,6,2,22.85
+866,Megan Lee,1,0,4,2,0,688881,6,867,Speculation Strategy 867,3,6,2,12.8
+867,Zachary Hill,5,0,2,4,3,851450,3,868,Aggressive Income Strategy 868,3,3,1,34.81
+868,Kellie Walter,2,1,4,3,0,220853,2,869,Speculation Strategy 869,4,5,1,22.23
+869,April Hamilton,1,0,2,4,3,153188,1,870,Aggressive Income Strategy 870,3,3,1,16.39
+870,Patricia Brady,2,4,1,0,2,763205,6,871,Income Strategy 871,7,1,0,25.0
+871,Jade Waters,1,3,4,0,2,459128,2,872,Speculation Strategy 872,7,6,1,26.419999999999998
+872,Diane Park,4,2,3,0,1,988711,5,873,Capital Appreciation Strategy 873,3,4,1,17.76
+873,Amy Garcia,4,0,2,0,1,505782,4,874,Aggressive Income Strategy 874,2,4,2,34.06
+874,Stephanie Castillo,3,3,4,0,2,158304,2,875,Speculation Strategy 875,1,6,1,28.42
+875,Stephanie Ibarra,4,4,2,0,3,914460,3,876,Aggressive Income Strategy 876,1,3,1,25.259999999999998
+876,Emily Patel,5,4,3,0,2,21379,3,877,Capital Appreciation Strategy 877,6,4,1,24.6
+877,Karen Bradford,5,4,1,2,0,451541,5,878,Income Strategy 878,2,1,1,26.779999999999998
+878,Gwendolyn Cole,1,3,2,0,4,842037,4,879,Aggressive Income Strategy 879,8,4,2,18.360000000000003
+879,Ryan Adams,2,3,2,0,0,985062,1,880,Aggressive Income Strategy 880,2,3,1,26.0
+880,Adam Vasquez,1,0,2,1,3,55176,4,881,Aggressive Income Strategy 881,3,3,1,28.76
+881,Lisa Wheeler,1,0,3,4,0,99947,2,882,Capital Appreciation Strategy 882,3,4,1,28.12
+882,Ethan Lambert,2,1,3,0,4,628538,5,883,Capital Appreciation Strategy 883,7,6,2,41.97
+883,Laura Powell,3,3,1,0,0,788263,2,884,Income Strategy 884,5,1,1,15.190000000000001
+884,Michael Armstrong,6,1,4,3,0,109867,3,885,Speculation Strategy 885,5,6,2,23.86
+885,Eric Miller,4,2,4,3,0,454579,6,886,Speculation Strategy 886,8,5,1,18.48
+886,Dawn Beasley,4,0,4,1,2,540260,5,887,Speculation Strategy 887,2,6,2,25.5
+887,Phillip Ashley,4,3,1,2,0,641010,4,888,Income Strategy 888,4,1,1,32.39
+888,Jessica Ellis,2,0,2,1,4,417068,3,889,Aggressive Income Strategy 889,4,4,2,19.650000000000002
+889,Joseph Cook,3,3,4,0,1,54725,5,890,Speculation Strategy 890,7,5,1,31.46
+890,Katelyn Burns,6,3,1,0,4,149533,1,891,Income Strategy 891,7,2,0,27.42
+891,Debra Martinez,6,1,3,4,0,691272,3,892,Capital Appreciation Strategy 892,3,4,1,17.98
+892,Stephen Collins,3,0,1,3,4,578524,4,893,Income Strategy 893,8,2,1,38.91
+893,Gerald Matthews,4,3,4,1,2,502770,3,894,Speculation Strategy 894,1,6,1,27.389999999999997
+894,Denise Riley,2,0,2,3,1,417811,2,895,Aggressive Income Strategy 895,2,3,1,23.68
+895,Ashley Gamble,3,2,4,1,3,199810,5,896,Speculation Strategy 896,5,6,1,16.28
+896,Steven Cole,4,0,3,4,0,622673,5,897,Capital Appreciation Strategy 897,8,4,1,32.74
+897,Colleen Scott,5,0,3,1,4,512901,2,898,Capital Appreciation Strategy 898,1,5,1,17.669999999999998
+898,Sylvia Wallace,3,1,4,2,3,459267,6,899,Speculation Strategy 899,2,7,2,28.060000000000002
+899,Kayla Moran,1,2,3,0,1,404673,2,900,Capital Appreciation Strategy 900,8,5,2,22.259999999999998
+900,Melanie Lee MD,5,0,2,0,4,370976,3,901,Aggressive Income Strategy 901,6,4,1,26.66
+901,Christina Petty,4,0,1,2,0,649967,6,902,Income Strategy 902,8,1,0,17.21
+902,Kimberly Garcia,3,0,3,0,2,362849,4,903,Capital Appreciation Strategy 903,7,4,1,20.54
+903,Bradley Jones,2,4,2,0,0,658759,2,904,Aggressive Income Strategy 904,2,3,2,19.27
+904,Brent Smith,6,0,2,0,4,754714,6,905,Aggressive Income Strategy 905,1,4,1,19.59
+905,Kayla Rodriguez,4,0,2,4,1,187532,4,906,Aggressive Income Strategy 906,5,3,1,34.18
+906,Jerry Torres,4,2,3,4,1,615648,3,907,Capital Appreciation Strategy 907,2,5,2,26.43
+907,Kyle Smith,4,0,2,3,4,925263,4,908,Aggressive Income Strategy 908,2,4,2,18.310000000000002
+908,Debra Gonzalez,5,0,2,4,1,672636,6,909,Aggressive Income Strategy 909,5,3,1,22.48
+909,Adam Ellis,4,4,3,0,0,482614,4,910,Capital Appreciation Strategy 910,2,4,1,24.2
+910,Stanley Smith,5,2,3,0,1,332207,5,911,Capital Appreciation Strategy 911,5,4,1,29.95
+911,Kyle Hamilton,1,2,3,0,1,591735,4,912,Capital Appreciation Strategy 912,5,4,1,35.589999999999996
+912,Katie Gallagher,1,0,4,2,1,94666,6,913,Speculation Strategy 913,3,5,1,28.26
+913,Susan Sutton,5,0,1,0,3,823595,1,914,Income Strategy 914,1,2,1,22.11
+914,Seth Rhodes,4,4,1,0,2,185411,5,915,Income Strategy 915,7,2,1,24.779999999999998
+915,Stephanie Davis,1,0,4,1,2,167754,1,916,Speculation Strategy 916,7,6,1,12.25
+916,Christine Bryant,5,0,4,3,1,715365,5,917,Speculation Strategy 917,6,5,1,29.57
+917,Kristine Collins,4,0,1,3,2,191922,4,918,Income Strategy 918,5,2,1,300.11
+918,Amber Hill,2,4,1,2,0,214204,4,919,Income Strategy 919,3,1,1,37.09
+919,Kristina Tapia,4,0,1,2,4,983369,1,920,Income Strategy 920,7,2,1,16.98
+920,Christina Rogers,5,3,4,0,1,673349,4,921,Speculation Strategy 921,3,5,1,22.55
+921,Denise Young,6,3,4,0,1,43285,3,922,Speculation Strategy 922,1,6,2,17.51
+922,Alejandro Thompson,6,3,1,0,2,341806,4,923,Income Strategy 923,1,1,0,21.349999999999998
+923,John Williams,1,0,1,3,0,145739,1,924,Income Strategy 924,4,1,0,26.27
+924,Parker Nichols,5,2,1,0,4,804788,6,925,Income Strategy 925,8,2,0,27.79
+925,Amanda Wallace,6,0,2,3,4,669673,1,926,Aggressive Income Strategy 926,2,4,2,20.380000000000003
+926,Kenneth Taylor,2,0,2,4,3,815735,1,927,Aggressive Income Strategy 927,4,3,1,47.15
+927,John Mays,2,4,3,0,1,61443,5,928,Capital Appreciation Strategy 928,2,5,2,20.12
+928,Marilyn Schmidt DDS,3,2,1,3,0,816618,5,929,Income Strategy 929,1,1,0,20.61
+929,Jane Anthony,3,0,3,2,4,636174,4,930,Capital Appreciation Strategy 930,1,5,1,20.810000000000002
+930,Tanya Gonzalez,4,4,2,1,3,17433,1,931,Aggressive Income Strategy 931,7,4,2,23.169999999999998
+931,Samuel Melton,4,1,4,0,3,579991,4,932,Speculation Strategy 932,7,7,2,37.669999999999995
+932,Dawn Miller,3,0,3,0,2,211673,5,933,Capital Appreciation Strategy 933,3,4,1,25.97
+933,Gregory Rice,6,0,2,1,4,471597,3,934,Aggressive Income Strategy 934,7,4,2,16.02
+934,Ryan Mccarty,2,0,2,3,4,421095,5,935,Aggressive Income Strategy 935,3,4,2,24.18
+935,Donald Reyes,6,0,3,0,4,346435,5,936,Capital Appreciation Strategy 936,1,6,2,20.16
+936,Sarah Byrd,3,3,4,0,0,839192,1,937,Speculation Strategy 937,2,5,1,31.91
+937,Anthony Thomas,3,0,4,1,2,151552,2,938,Speculation Strategy 938,5,6,2,20.04
+938,Catherine Huffman,2,3,4,2,0,171869,3,939,Speculation Strategy 939,8,5,1,19.439999999999998
+939,Paige Villa,5,1,2,0,4,295297,6,940,Aggressive Income Strategy 940,1,4,2,15.559999999999999
+940,Krista Lee,5,1,2,0,4,225660,3,941,Aggressive Income Strategy 941,5,4,2,25.77
+941,Eric Roy,4,0,3,4,1,368296,1,942,Capital Appreciation Strategy 942,5,5,2,24.58
+942,Adam Haynes,5,0,3,4,2,991572,2,943,Capital Appreciation Strategy 943,7,5,2,23.25
+943,Brian Graham,3,0,4,3,2,78966,4,944,Speculation Strategy 944,5,6,1,23.62
+944,Joshua Reyes,6,0,2,4,3,978542,1,945,Aggressive Income Strategy 945,8,3,1,17.990000000000002
+945,Robert Johnson,4,4,3,1,0,623124,6,946,Capital Appreciation Strategy 946,5,4,1,20.200000000000003
+946,Juan Graham,4,0,4,2,1,18837,5,947,Speculation Strategy 947,1,6,2,12.690000000000001
+947,Matthew Mcdonald,5,0,2,1,3,816563,6,948,Aggressive Income Strategy 948,7,3,1,16.57
+948,Stephen Gross,5,3,2,1,4,617716,5,949,Aggressive Income Strategy 949,7,4,2,28.15
+949,Jason Williamson,4,3,1,2,0,79977,3,950,Income Strategy 950,2,1,0,47.349999999999994
+950,Kimberly Hardy,3,0,4,0,3,395332,3,951,Speculation Strategy 951,8,6,1,16.33
+951,Kurt Conrad,3,0,1,0,4,823186,3,952,Income Strategy 952,4,2,1,15.079999999999998
+952,Andrew Hudson,4,2,3,4,1,828371,1,953,Capital Appreciation Strategy 953,8,4,1,15.840000000000002
+953,Mrs. Ana Smith,4,0,1,2,4,20620,2,954,Income Strategy 954,3,2,1,18.529999999999998
+954,Keith Lee,5,1,2,3,4,491332,2,955,Aggressive Income Strategy 955,6,4,1,19.42
+955,Logan Odonnell,2,1,3,0,0,237300,2,956,Capital Appreciation Strategy 956,4,4,1,22.33
+956,Margaret Wilson,1,0,2,0,1,405764,2,957,Aggressive Income Strategy 957,3,4,2,13.919999999999998
+957,Mr. Robert Mccullough,4,0,4,2,1,195822,6,958,Speculation Strategy 958,1,5,1,12.98
+958,Vincent Johnson,6,0,2,3,1,500754,2,959,Aggressive Income Strategy 959,2,3,1,23.82
+959,Robert Short,6,1,4,0,2,192007,1,960,Speculation Strategy 960,3,6,1,26.950000000000003
+960,Erica Rose,6,0,4,3,2,333748,3,961,Speculation Strategy 961,5,6,1,21.11
+961,Jason Schmidt,1,2,4,0,0,630267,6,962,Speculation Strategy 962,8,6,2,17.330000000000002
+962,Jessica Butler,1,0,2,0,3,939438,4,963,Aggressive Income Strategy 963,8,3,1,29.34
+963,Brandi Walker,5,0,1,2,4,200863,1,964,Income Strategy 964,3,2,0,20.79
+964,Christopher Rodriguez,1,0,1,0,2,109917,6,965,Income Strategy 965,1,1,0,26.36
+965,Maria Mack,5,0,4,2,3,146207,2,966,Speculation Strategy 966,5,6,1,25.44
+966,Kathleen Gomez,6,0,2,1,4,638583,2,967,Aggressive Income Strategy 967,1,4,2,54.269999999999996
+967,Justin Peters,5,1,3,2,4,357702,4,968,Capital Appreciation Strategy 968,7,6,2,19.17
+968,Rachael Jacobs,5,0,4,1,3,780729,3,969,Speculation Strategy 969,2,7,2,30.65
+969,Selena Murphy,6,0,2,3,0,679527,3,970,Aggressive Income Strategy 970,2,3,1,21.87
+970,Blake Hines,2,0,2,0,0,549093,5,971,Aggressive Income Strategy 971,1,3,2,22.509999999999998
+971,Thomas Short,4,3,4,2,0,482159,2,972,Speculation Strategy 972,3,5,1,18.69
+972,Jennifer King,1,0,2,4,1,752592,2,973,Aggressive Income Strategy 973,7,4,2,28.999999999999996
+973,John Henderson,6,4,2,1,0,621008,1,974,Aggressive Income Strategy 974,8,3,2,14.610000000000001
+974,Heather Mccormick,6,0,1,4,2,909976,3,975,Income Strategy 975,7,1,0,23.89
+975,Jessica Nelson,3,0,4,1,0,322477,5,976,Speculation Strategy 976,8,6,2,40.400000000000006
+976,Christina Paul,4,0,4,3,1,259093,3,977,Speculation Strategy 977,2,5,1,37.55
+977,Michael Hernandez,3,0,3,2,4,812767,4,978,Capital Appreciation Strategy 978,6,5,1,25.27
+978,Michael Wagner,4,1,3,0,2,837636,1,979,Capital Appreciation Strategy 979,7,4,1,32.21
+979,Harry Adams,4,1,3,0,0,405108,3,980,Capital Appreciation Strategy 980,2,4,1,21.64
+980,Christian Tucker,4,4,1,0,0,562712,2,981,Income Strategy 981,3,1,0,40.67
+981,Colin Finley,4,0,4,0,3,414441,4,982,Speculation Strategy 982,6,7,2,28.84
+982,Carlos Ward,1,0,2,1,4,370963,6,983,Aggressive Income Strategy 983,1,4,2,24.3
+983,Gary Hendricks,2,0,2,3,4,714664,4,984,Aggressive Income Strategy 984,5,4,1,19.71
+984,Brittany Tapia,1,3,2,1,0,460398,5,985,Aggressive Income Strategy 985,4,3,2,21.2
+985,Jennifer Henderson,5,0,2,0,1,689359,6,986,Aggressive Income Strategy 986,7,4,2,22.59
+986,Danielle Mcdonald,2,1,3,0,2,798981,5,987,Capital Appreciation Strategy 987,7,5,2,41.22
+987,Rebecca Oconnor,4,2,1,3,4,95234,2,988,Income Strategy 988,2,2,1,17.36
+988,Rebecca Butler,4,3,1,4,0,814804,6,989,Income Strategy 989,6,1,0,15.73
+989,Rebecca Chambers,2,2,4,3,1,394230,6,990,Speculation Strategy 990,6,5,1,28.89
+990,Pamela Lopez,2,0,1,2,0,548812,2,991,Income Strategy 991,2,1,1,18.43
+991,Melanie Freeman,3,0,3,2,4,939960,1,992,Capital Appreciation Strategy 992,2,5,1,15.93
+992,William Thomas,2,4,2,0,1,233176,5,993,Aggressive Income Strategy 993,1,4,2,26.1
+993,Christina Gardner,1,4,3,2,0,355834,1,994,Capital Appreciation Strategy 994,6,4,1,28.92
+994,Ashley Smith,5,0,2,0,1,759301,3,995,Aggressive Income Strategy 995,7,3,1,22.400000000000002
+995,Ashley Martin,5,0,4,1,2,554661,3,996,Speculation Strategy 996,3,6,1,39.42
+996,Dustin Patel,2,0,1,3,2,71351,2,997,Income Strategy 997,1,2,1,21.01
+997,Jesse Hill,5,4,2,3,0,352812,1,998,Aggressive Income Strategy 998,4,3,1,25.88
+998,Emma Schneider,2,0,2,3,4,650202,5,999,Aggressive Income Strategy 999,6,4,1,36.9
+999,Derek Neal,6,0,4,2,3,666363,2,1000,Speculation Strategy 1000,8,7,2,24.2
