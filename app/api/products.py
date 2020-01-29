@@ -6,10 +6,10 @@ from scipy.spatial.distance import cosine
 from scipy.spatial.distance import hamming
 
 basedir = os.path.abspath(os.path.dirname(__file__))
-print(basedir)
-models = pd.read_csv(".\\app\\api\models.csv", index_col='model_id')
-products = pd.read_csv('.\\app\\api\equities.csv',index_col='Symbol')
-holdings = pd.read_csv('.\\app\\api\model_holdings.csv', index_col=0)
+print("This is: " + basedir)
+models = pd.read_csv("./app/api/models.csv", index_col='model_id')
+products = pd.read_csv('./app/api/equities.csv',index_col='Symbol')
+holdings = pd.read_csv('./app/api/model_holdings.csv', index_col=0)
 
 df = models.drop(['account_name','model_name'],axis=1)
 df = df.drop(df.columns[0], axis=1)
