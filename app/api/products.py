@@ -4,6 +4,7 @@ import numpy as np
 import os
 from scipy.spatial.distance import cosine
 from scipy.spatial.distance import hamming
+from flask import request
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 print("This is: " + basedir)
@@ -76,9 +77,11 @@ def topNProducts(model_json, N=10):
     topNProducts = avgRating.sort_values(ascending=False).index[:N]
     return pd.Series(topNProducts)
 
-@bp.route('/users', methods=['GET'])
+@bp.route('/products', methods=['GET'])
 def get_users():
+    model_json=request.args['model']
     result = topNProducts(model_json,10)
-    result_json = result.to_json(orient='records')
-    return result_json    
+    result_df = products[products.index.isin(result.values)]
+    result_json = result_df.to_json(orient='records')
+    return result_json       
 
