@@ -35,11 +35,11 @@ def findSimilarModel(model_json, df):
 
 def productMeta(symbol):
     symbol = symbol
-    name = products.at[symbol,"Name"]
-    sector = products.at[symbol,"Sector"]
+    name = products.at[symbol,"product_name"]
+    sector = products.at[symbol,"sector"]
     close_price = products.at[symbol,"close_price"]
     risk_score = products.at[symbol,"risk_score"]
-    L2 = products.at[symbol,"L2"]
+    L2 = products.at[symbol,"asset_class"]
     return symbol, name, sector, close_price, risk_score, L2
 
 def favProducts(model_id, N):
@@ -82,6 +82,7 @@ def get_users():
     model_json=request.args['model']
     result = topNProducts(model_json,10)
     result_df = products[products.index.isin(result.values)]
+    result_df['symbol'] = result.values
     result_json = result_df.to_json(orient='records')
     return result_json       
 
