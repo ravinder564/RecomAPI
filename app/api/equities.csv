@@ -1,4 +1,4 @@
-,Symbol,Name,MarketCap,Sector,Industry,L2,close_price,risk_score,return_2019,return_2018,return_2017,return_2016,return_2015,return_2014,return_2013,return_2012,return_2011,return_2010
+,Symbol,product_name,Marketcap,sector,Industry,asset_class,close_price,risk_score,return_2019,return_2018,return_2017,return_2016,return_2015,return_2014,return_2013,return_2012,return_2011,return_2010
 0,TXG,"10x Genomics, Inc.",8042693253.02,Capital Goods,Biotechnology: Laboratory Analytical Instruments,Mid Cap,103.21,,551.15,-1.84,-42.62,65.0,2.44,30.85,-57.27,-2.22,34.73,49.11
 1,YI,"111, Inc.",134211865.71,Health Care,Medical/Nursing Services,Micro Cap,7.0,93.38,,,,,,,,,,
 2,PIH,"1347 Property Insurance Holdings, Inc.",34282000.0,Finance,Property-Casualty Insurers,Micro Cap,5.68,49.32,,,,,,,,,,
