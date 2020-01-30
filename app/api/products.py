@@ -12,22 +12,28 @@ models = pd.read_csv("./app/api/models.csv", index_col='model_id')
 products = pd.read_csv('./app/api/equities.csv',index_col='Symbol')
 holdings = pd.read_csv('./app/api/model_holdings.csv', index_col=0)
 
-df = models.drop(['account_name','model_name'],axis=1)
+df = models.drop(['account_name','model_name','investment_amt','volatility'],axis=1)
 df = df.drop(df.columns[0], axis=1)
 df = df.dropna()
-df.volatility = df.volatility.round(2)
+
 model_json = '{"inv_horizon":2.0,"inv_obj_least_imp":0.0,"inv_obj_most_imp":2.0,"inv_obj_some_imp":0.0,"inv_obj_very_imp":4.0,"investment_amt":745791.0,"liquidity_need":2.0,"primary_fin_need":7.0,"risk_profile":2.0,"risk_tolerance":0.0,"volatility":13.94}'
 products = products.drop(products.columns[0], axis=1)
 modelProductRatingMatrix = pd.pivot_table(holdings, values='percent', index=['model_id'],columns=['product_id'])
 
 def findSimilarModel(model_json, df):
     input_model = pd.read_json(model_json, typ='series')
-    input_model_df = input_model.to_frame().transpose()
-    prev_similarity = 0
-    final_ind = 0
+    input_model = input_model.drop('investment_amt')
+    input_model = input_model.drop('volatility')
+    input_model_df = input_model.to_frame(name="val1")
+    #print(int(input_model_df['risk_profile'].values))
+    prev_similarity = 1
     model_id = 0
-    for i in range(len(df)) : 
-        similarity = cosine(input_model_df.values,df.iloc[i,:])
+    for i in range(len(df)):
+        sr1 = df.iloc[i]
+        df1 = sr1.to_frame(name="val2")
+        #print("models risk profile: "+str(int(df.iloc[i,:].risk_profile)))
+        similarity = cosine(input_model_df["val1"],df1["val2"])
+        #print(similarity)
         if(similarity <= prev_similarity):
             prev_similarity = similarity
             model_id = i
